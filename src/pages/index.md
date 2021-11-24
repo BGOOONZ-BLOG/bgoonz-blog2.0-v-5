@@ -97,6 +97,7 @@ sections:
         actions: []
         type: grid_item
         image: images/spectacular-turmeric.png
+        title: Mat
       - title: Convolutional Neural Networks
         title_url: neural networks
         image_alt: neural networks
