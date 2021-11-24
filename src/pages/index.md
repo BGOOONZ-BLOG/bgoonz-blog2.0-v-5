@@ -84,7 +84,7 @@ sections:
   - title: Current Interests
     section_id: interests
     subtitle: From github repositories to existential questions.
-    col_number: three
+    col_number: two
     grid_items:
       - title: Angolia
         title_url: angolia
