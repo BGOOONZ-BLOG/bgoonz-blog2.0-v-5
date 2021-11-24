@@ -252,6 +252,24 @@ sections:
         no_follow: false
     type: section_cta
     subtitle: get in touch! +1 (551) - 254 - 5505
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    image_position: left
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: section_content
+    '': lorem-ipsum
 seo:
   title: Web-Dev-Hub
   description: >-
