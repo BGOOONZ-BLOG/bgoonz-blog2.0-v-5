@@ -191,7 +191,7 @@ sections:
   - title: Blog-Archive-And-Mini-Projects
     section_id: blog-archive-mini-projects
     image_alt: rotating pages
-    image_position: left
+    image_position: right
     content: >-
       <iframe class="block-content" width="100%  width="1200px!important"
       height="1000px!important"
