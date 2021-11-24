@@ -86,7 +86,7 @@ sections:
     subtitle: From github repositories to existential questions.
     col_number: two
     grid_items:
-      - title_url: angolia
+      - title_url: Calculus
         image_alt: angolia
         content: |
           ## Full Text Search
