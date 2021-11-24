@@ -200,7 +200,7 @@ sections:
         encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     actions: []
     type: section_content
-    image: images/abstact-hexagon-background-memphis-style_1017-31955 (1).jpg
+    image: images/3-e613812d.jpg
   - section_id: Web Audio DAW
     image_alt: medium
     image_position: left
