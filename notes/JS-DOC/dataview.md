@@ -18,7 +18,7 @@ Multi-byte number formats are represented in memory differently depending on mac
 
 ### 64-bit Integer Values
 
-Some browsers don’t have support for [`DataView.prototype.setBigInt64()`](dataview/setbigint64) and [`DataView.prototype.setBigUint64()`](dataview/setbiguint64). So to enable 64-bit operations in your code that will work across browsers, you could implement your own `getUint64()` function, to obtain values with precision up to [`Number.MAX_SAFE_INTEGER`](number/max_safe_integer) — which could suffice for certain cases.
+Some browsers don't have support for [`DataView.prototype.setBigInt64()`](dataview/setbigint64) and [`DataView.prototype.setBigUint64()`](dataview/setbiguint64). So to enable 64-bit operations in your code that will work across browsers, you could implement your own `getUint64()` function, to obtain values with precision up to [`Number.MAX_SAFE_INTEGER`](number/max_safe_integer) — which could suffice for certain cases.
 
     function getUint64(dataview, byteOffset, littleEndian) {
       // split 64-bit number into two 32-bit (4-byte) parts
@@ -136,7 +136,9 @@ Stores an unsigned 64-bit integer (unsigned long long) value at the specified by
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-dataview-objects">ECMAScript Language Specification (ECMAScript)<br />
+<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-dataview-objects">ECMAScript Language Specification (ECMAScript) 
+<br/>
+
 <span class="small">#sec-dataview-objects</span></a></td></tr></tbody></table>
 
 `DataView`

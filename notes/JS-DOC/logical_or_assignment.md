@@ -16,7 +16,7 @@ The [logical OR](logical_or) operator works like this:
     // returns x when x is truthy
     // returns y when x is not truthy
 
-The logical OR operator short-circuits: the second operand is only evaluated if the first operand doesn’t already determine the result.
+The logical OR operator short-circuits: the second operand is only evaluated if the first operand doesn't already determine the result.
 
 Logical OR assignment short-circuits as well, meaning it only performs an assignment if the logical operation would evaluate the right-hand side. In other words, `x ||= y` is equivalent to:
 
@@ -42,7 +42,9 @@ Note: Pay attention to the value returned by the API you're checking against. If
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-assignment-operators">ECMAScript Language Specification (ECMAScript)<br />
+<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-assignment-operators">ECMAScript Language Specification (ECMAScript) 
+<br/>
+
 <span class="small">#sec-assignment-operators</span></a></td></tr></tbody></table>
 
 `Logical_OR_assignment`

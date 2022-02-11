@@ -80,9 +80,9 @@ An additional optimization technique to lazify or delay the calculation of a pro
 -   If the value isn't needed just now. It will be used later, or in some case it's not used at all.
 -   If it's used, it will be accessed several times, and there is no need to re-calculate that value will never be changed or shouldn't be re-calculated.
 
-**Note:** This means that you shouldn’t write a lazy getter for a property whose value you expect to change, because if the getter is lazy then it will not recalculate the value.
+**Note:** This means that you shouldn't write a lazy getter for a property whose value you expect to change, because if the getter is lazy then it will not recalculate the value.
 
-Note that getters are not “lazy” or “memoized” by nature; you must implement this technique if you desire this behavior.
+Note that getters are not "lazy” or "memoized” by nature; you must implement this technique if you desire this behavior.
 
 In the following example, the object has a getter as its own property. On getting the property, the property is removed from the object and re-added, but implicitly as a data property this time. Finally, the value gets returned.
 
@@ -121,7 +121,9 @@ When using `get` the property will be defined on the instance's prototype, while
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-method-definitions">ECMAScript (ECMA-262)<br />
+<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-method-definitions">ECMAScript (ECMA-262) 
+<br/>
+
 <span class="small">The definition of 'Method definitions' in that specification.</span></a></td></tr></tbody></table>
 
 `get`
