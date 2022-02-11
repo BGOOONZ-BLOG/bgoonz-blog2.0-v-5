@@ -1,99 +1,110 @@
-.site-footer {
-background-color: black;
-background-image: url('https://i.imgur.com/CEYEZp8.jpeg');
-padding-bottom: 6.5em;
-padding-top: 10.5em;
-color: white !important;
-border:4px solid black;
-}
+$(document).ready(function() {
+  $('i').hide();
+});
 
-#colophon {
-a:not(.button) {
-color: inherit;
+$(window).load(function() {
+  $('i').show();
 
-        &:hover,
-        &:focus {
-            color: $color-primary;
-        }
-    }
+  let twitterPos = $('#twitter').position();
+  let githubPos = $('#github').position();
+  let stackPos = $('#stack').position();
+  let linkedinPos = $('#linkedin').position();
+  let codePos = $('#code').position();
+  let plusPos = $('#plus').position();
+  let mailPos = $('#mail').position();
+  let imgPos = $('.me').position();
+  
+  $('i').css({
+    position: 'absolute',
+    zIndex: '1',
+    top: imgPos.top + 100,
+    left: '47%'
+  });
+  
+  setTimeout(function() {
+    $('#twitter').animate({
+      top: twitterPos.top + 10,
+      left: twitterPos.left - 10
+    }, 500);
+  }, 250);
+  
+  setTimeout(function() {
+    $('#twitter').animate({
+      top: twitterPos.top,
+      left: twitterPos.left
+    }, 250);
 
-}
+    $('#github').animate({
+      top: githubPos.top + 10,
+      left: githubPos.left - 6
+    }, 500);
+  }, 500);
+  
+  setTimeout(function() {
+    $('#github').animate({
+      top: githubPos.top,
+      left: githubPos.left
+    }, 250);
 
-.site-info,
-.social-links {
--ms-flex-align: center;
-align-items: center;
-display: -ms-flexbox;
-display: flex;
--ms-flex-wrap: wrap;
-flex-wrap: wrap;
--ms-flex-pack: center;
-justify-content: center;
-font-size: 0.675em;
-line-height: 1.2;
+    $('#stack').animate({
+      top: stackPos.top + 10,
+      left: stackPos.left - 3
+    }, 500);
+  }, 750);
+  
+  setTimeout(function() {
+    $('#stack').animate({
+      top: stackPos.top,
+      left: stackPos.left
+    }, 250);
 
-    .button:not(.button-icon) {
-        font-size: inherit;
-        line-height: 1.2;
-        padding: 0.3em 1em;
-    }
+    $('#linkedin').animate({
+      top: linkedinPos.top + 10,
+      left: linkedinPos.left
+    }, 500);
+  }, 1000);
+  
+  setTimeout(function() {
+    $('#linkedin').animate({
+      top: linkedinPos.top,
+      left: linkedinPos.left
+    }, 250);
 
-}
+    $('#code').animate({
+      top: codePos.top + 10,
+      left: codePos.left + 3
+    }, 500);
+  }, 1250);
+  
+  setTimeout(function() {
+    $('#code').animate({
+      top: codePos.top,
+      left: codePos.left
+    }, 250);
 
-.site-info {
-margin: 0.25em 0 0;
-text-align: center;
+    $('#plus').animate({
+      top: plusPos.top + 10,
+      left: plusPos.left + 6
+    }, 500);
+  }, 1500);
+  
+  setTimeout(function() {
+    $('#plus').animate({
+      top: plusPos.top,
+      left: plusPos.left
+    }, 250);
 
-    .copyright,
-    > a {
-        margin: 0 4px 0.2em 0;
-    }
-
-}
-
-.social-links {
-margin-top: 0.5375em;
-
-    a {
-        margin: 0 50px 0.2em;
-    }
-
-    .icon {
-        font-size: 20px;
-        color:rgb(0, 0, 0);
-        background-color: rgb(0, 0, 0);
-    }
-
-}
-
-@media only screen and (min-width: 641px) {
-.site-footer-inside {
--ms-flex-align: start;
-align-items: flex-start;
-display: -ms-flexbox;
-display: flex;
-}
-
-    .site-info {
-        -ms-flex-pack: start;
-        justify-content: flex-start;
-        text-align: left;
-    }
-
-    .social-links {
-        -ms-flex: 0 0 auto;
-        flex: 0 0 auto;
-        -ms-flex-wrap: nowrap;
-        flex-wrap: nowrap;
-        -ms-flex-pack: start;
-        justify-content: flex-start;
-        margin-left: auto;
-        margin-top: 0;
-
-        a {
-            margin-left: 20px;
-            margin-right: 0;
-        }
-    }
-
-}
+    $('#mail').animate({
+      top: mailPos.top + 10,
+      left: mailPos.left + 10
+    }, 500);
+  }, 1750);
+  
+  setTimeout(function() {
+    $('#mail').animate({
+      top: mailPos.top,
+      left: mailPos.left
+    }, 250);
+  }, 2000);
+  
+});
