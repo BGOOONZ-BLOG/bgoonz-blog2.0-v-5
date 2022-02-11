@@ -24,7 +24,7 @@ Or [`NaN`](nan) when the first non-whitespace character cannot be converted to a
 -   If `parseFloat` encounters a character other than a plus sign (`+`), minus sign (`-` U+002D HYPHEN-MINUS), numeral (`0`–`9`), decimal point (`.`), or exponent (`e` or `E`), it returns the value up to that character, ignoring the invalid character and characters following it.
 -   A _second_ decimal point also stops parsing (characters up to that point will still be parsed).
 -   Leading and trailing spaces in the argument are ignored.
--   If the argument’s first character can’t be converted to a number (it’s not any of the above characters), `parseFloat` returns [`NaN`](nan).
+-   If the argument's first character can't be converted to a number (it's not any of the above characters), `parseFloat` returns [`NaN`](nan).
 -   `parseFloat` can also parse and return [`Infinity`](infinity).
 -   `parseFloat` converts [`BigInt`](bigint) syntax to [`Numbers`](number), losing precision. This happens because the trailing `n` character is discarded.
 
@@ -61,7 +61,9 @@ The following examples both return `900719925474099300`, losing precision as the
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-parsefloat-string">ECMAScript (ECMA-262)<br />
+<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-parsefloat-string">ECMAScript (ECMA-262) 
+<br/>
+
 <span class="small">The definition of 'parseFloat' in that specification.</span></a></td></tr></tbody></table>
 
 ## Browser compatibility

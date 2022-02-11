@@ -31,7 +31,7 @@ If an optional value is passed to the generator's `next()` method, that value be
 
 Between the generator's code path, its `yield` operators, and the ability to specify a new starting value by passing it to [`Generator.prototype.next()`](../global_objects/generator/next), generators offer enormous power and control.
 
-**Warning:** Unfortunately, `next()` is asymmetric, but that can’t be helped: It always sends a value to the currently suspended `yield`, but returns the operand of the following `yield`.
+**Warning:** Unfortunately, `next()` is asymmetric, but that can't be helped: It always sends a value to the currently suspended `yield`, but returns the operand of the following `yield`.
 
 ## Examples
 
@@ -78,7 +78,9 @@ You can also send a value with next(value) into the generator. 'step' evaluates 
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#prod-YieldExpression">ECMAScript Language Specification (ECMAScript)<br />
+<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#prod-YieldExpression">ECMAScript Language Specification (ECMAScript) 
+<br/>
+
 <span class="small">#prod-YieldExpression</span></a></td></tr></tbody></table>
 
 ## Browser compatibility

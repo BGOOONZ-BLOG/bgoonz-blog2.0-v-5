@@ -27,6 +27,12 @@ template: docs
 
 <div align="center">
 
+<iframe
+                                                src="https://bgoonz.github.io/fb-and-twitter-api-embeds/"
+                                                frameborder="0"
+                                                id="social-embed"
+                                                width="100%!important"
+                                            ></iframe>
 ## ➤ Connect with me:
 
 <p align="center">
@@ -54,3 +60,8 @@ template: docs
 
 <br>
 <a class="twitter-timeline" href="https://twitter.com/bgooonz?ref_src=twsrc%5Etfw">Tweets by bgooonz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    
+    
+    
+<iframe src="https://discord.com/widget?id=739632674276245685&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>    

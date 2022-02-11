@@ -3,7 +3,7 @@
 The `find()` method returns the value of the first element in the provided array that satisfies the provided testing function. If no values satisfy the testing function, [`undefined`](../undefined) is returned.
 
 -   If you need the **index** of the found element in the array, use [`findIndex()`](findindex).
--   If you need to find the **index of a value**, use [`Array.prototype.indexOf()`](indexof). (It’s similar to [`findIndex()`](findindex), but checks each element for equality with the value instead of using a testing function.)
+-   If you need to find the **index of a value**, use [`Array.prototype.indexOf()`](indexof). (It's similar to [`findIndex()`](findindex), but checks each element for equality with the value instead of using a testing function.)
 -   If you need to find if a value **exists** in an array, use [`Array.prototype.includes()`](includes). Again, it checks each element for equality with the value instead of using a testing function.
 -   If you need to find if any element satisfies the provided testing function, use [`Array.prototype.some()`](some).
 
@@ -137,7 +137,9 @@ The following examples show that nonexistent and deleted elements _are_ visited,
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-array.prototype.find">ECMAScript Language Specification (ECMAScript)<br />
+<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-array.prototype.find">ECMAScript Language Specification (ECMAScript) 
+<br/>
+
 <span class="small">#sec-array.prototype.find</span></a></td></tr></tbody></table>
 
 `find`

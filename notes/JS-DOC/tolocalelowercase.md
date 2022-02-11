@@ -11,7 +11,7 @@ The `toLocaleLowerCase()` method returns the calling string value converted to l
 ### Parameters
 
 `locale` <span class="badge inline optional">Optional</span>  
-The `locale` parameter indicates the locale to be used to convert to lower case according to any locale-specific case mappings. If multiple locales are given in an [`Array`](../array), the [best available locale](https://tc39.github.io/ecma402/#sec-bestavailablelocale) is used. The default locale is the host environment’s current locale.
+The `locale` parameter indicates the locale to be used to convert to lower case according to any locale-specific case mappings. If multiple locales are given in an [`Array`](../array), the [best available locale](https://tc39.github.io/ecma402/#sec-bestavailablelocale) is used. The default locale is the host environment's current locale.
 
 ### Return value
 
@@ -40,8 +40,12 @@ The `toLocaleLowerCase()` method returns the value of the string converted to lo
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-string.prototype.tolocalelowercase">ECMAScript Language Specification (ECMAScript)<br />
-<span class="small">#sec-string.prototype.tolocalelowercase</span></a></td></tr><tr class="even"><td><a href="https://tc39.es/ecma402/#sup-string.prototype.tolocalelowercase">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)<br />
+<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-string.prototype.tolocalelowercase">ECMAScript Language Specification (ECMAScript) 
+<br/>
+
+<span class="small">#sec-string.prototype.tolocalelowercase</span></a></td></tr><tr class="even"><td><a href="https://tc39.es/ecma402/#sup-string.prototype.tolocalelowercase">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
+<br/>
+
 <span class="small">#sup-string.prototype.tolocalelowercase</span></a></td></tr></tbody></table>
 
 ## Browser compatibility

@@ -110,7 +110,9 @@ A writing thread stores a new value and notifies the waiting thread once it has 
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-atomics-object">ECMAScript Language Specification (ECMAScript)<br />
+<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-atomics-object">ECMAScript Language Specification (ECMAScript) 
+<br/>
+
 <span class="small">#sec-atomics-object</span></a></td></tr></tbody></table>
 
 `Atomics`
@@ -868,6 +870,6 @@ Chrome disabled `SharedArrayBuffer` on January 5, 2018 to help reduce the effica
 -   [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
 -   [parlib-simple](https://github.com/lars-t-hansen/parlib-simple) – a simple library providing synchronization and work distribution abstractions.
 -   [Shared Memory – a brief tutorial](https://github.com/tc39/ecmascript_sharedmem/blob/master/TUTORIAL.md)
--   [A Taste of JavaScript’s New Parallel Primitives – Mozilla Hacks](https://hacks.mozilla.org/2016/05/a-taste-of-javascripts-new-parallel-primitives/)
+-   [A Taste of JavaScript's New Parallel Primitives – Mozilla Hacks](https://hacks.mozilla.org/2016/05/a-taste-of-javascripts-new-parallel-primitives/)
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics</a>

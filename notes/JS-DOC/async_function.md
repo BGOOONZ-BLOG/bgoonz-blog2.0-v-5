@@ -13,7 +13,7 @@ Async functions may also be defined [as expressions](../operators/async_function
 ### Parameters
 
 `name`  
-The function’s name.
+The function's name.
 
 `param`  
 The name of an argument to be passed to the function.
@@ -254,7 +254,9 @@ This highlights the subtle difference between `return foo;` and `return await fo
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-async-function-definitions">ECMAScript Language Specification (ECMAScript)<br />
+<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-async-function-definitions">ECMAScript Language Specification (ECMAScript) 
+<br/>
+
 <span class="small">#sec-async-function-definitions</span></a></td></tr></tbody></table>
 
 `async_function`

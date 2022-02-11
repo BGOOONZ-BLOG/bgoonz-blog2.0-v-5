@@ -70,7 +70,7 @@ The following extends Strings to include the `codePointAt()` function as specifi
           // Get the first code unit
           var first = string.charCodeAt(index);
           var second;
-          if ( // check if it’s the start of a surrogate pair
+          if ( // check if it's the start of a surrogate pair
             first >= 0xD800 && first <= 0xDBFF && // high surrogate
             size > index + 1 // there is a next code unit
           ) {
@@ -96,7 +96,9 @@ The following extends Strings to include the `codePointAt()` function as specifi
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-string.prototype.codepointat">ECMAScript Language Specification (ECMAScript)<br />
+<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-string.prototype.codepointat">ECMAScript Language Specification (ECMAScript) 
+<br/>
+
 <span class="small">#sec-string.prototype.codepointat</span></a></td></tr></tbody></table>
 
 `codePointAt`

@@ -13,11 +13,11 @@ template: docs
 
 ### Web Dev Resources
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*S5zCjm6p0WSZJQfT" alt="Photo by Roman Synkevych on Unsplash" class="graf-image" /><figcaption>Photo by <a href="https://unsplash.com/@synkevych?utm_source=medium&amp;utm_medium=referral" class="markup--anchor markup--figure-anchor">Roman Synkevych</a> on <a href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral" class="markup--anchor markup--figure-anchor">Unsplash</a></figcaption></figure>### Web Development
+<figure><img src="https://cdn-images-1.medium.com/max/800/0*S5zCjm6p0WSZJQfT" alt="Photo by Roman Synkevych on Unsplash" class="graf-image" /><figcaption>Photo by <a href="https://unsplash.com/@synkevych?utm_source=medium&amp;utm_medium=referral" class="markup--anchor markup--figure-anchor">Roman Synkevych</a> on <a href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral" class="markup--anchor markup--figure-anchor">Unsplash</a></figcaption></figure>### Web Development
 
 -   <span id="7f87"><a href="https://caniuse.com/#home" class="markup--anchor markup--li-anchor">Check cross-browser compatibility for CSS, JavaScript and HTML</a></span>
 -   <span id="6491"><a href="https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a" class="markup--anchor markup--li-anchor">Modern front-end Cheatsheets</a></span>
--   <span id="1272"><a href="https://stackshare.io/" class="markup--anchor markup--li-anchor">Check out what your favorite company’s stack is</a></span>
+-   <span id="1272"><a href="https://stackshare.io/" class="markup--anchor markup--li-anchor">Check out what your favorite company's stack is</a></span>
 -   <span id="d228"><a href="https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c" class="markup--anchor markup--li-anchor">A Guide to Becoming a Full-Stack Developer in 2017</a></span>
 -   <span id="0b32"><a href="http://edusagar.com/articles/view/70/What-happens-when-you-type-a-URL-in-browser" class="markup--anchor markup--li-anchor">What happens when you type a URL into a web browser</a></span>
 
@@ -29,7 +29,7 @@ template: docs
 
 ### GIT
 
--   <span id="c612"><a href="http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners" class="markup--anchor markup--li-anchor">HubSpot’s Intro to Git/GitHub including Pull Requests &amp; Merging</a></span>
+-   <span id="c612"><a href="http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners" class="markup--anchor markup--li-anchor">HubSpot's Intro to Git/GitHub including Pull Requests &amp; Merging</a></span>
 
 ### Express
 
@@ -80,7 +80,7 @@ template: docs
 ### VS Code
 
 -   <span id="e3ec"><a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf" class="markup--anchor markup--li-anchor">Keystroke cheat sheet</a></span>
--   <span id="7f06"><a href="https://gist.github.com/tanukid/4ba5d7021a2027362592cbac0a356f58" class="markup--anchor markup--li-anchor">Daniel’s Config</a></span>
+-   <span id="7f06"><a href="https://gist.github.com/tanukid/4ba5d7021a2027362592cbac0a356f58" class="markup--anchor markup--li-anchor">Daniel's Config</a></span>
 
 ### Sublime
 
@@ -99,7 +99,7 @@ template: docs
 -   <span id="b6d5"><a href="https://www.hackerrank.com/" class="markup--anchor markup--li-anchor">Hacker Rank</a></span>
 -   <span id="6a45"><a href="https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&amp;psc=1&amp;refRID=8BB0KRJ073A8CZXTW5PP&amp;dpID=41XgSiYW7dL&amp;preST=_SY291_BO1,204,203,200_QL40_&amp;dpSrc=detail" class="markup--anchor markup--li-anchor">Cracking the Coding Interview</a></span>
 
-Here’s a repo where I hoard resource lists!
+Here's a repo where I hoard resource lists!
 
 <a href="https://github.com/bgoonz/Cumulative-Resource-List.git" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz/Cumulative-Resource-List.git"><strong>bgoonz/Cumulative-Resource-List</strong><br />
 <em>Inspired by Awesome Lists. Contribute to bgoonz/Cumulative-Resource-List development by creating an account on GitHub.</em>github.com</a><a href="https://github.com/bgoonz/Cumulative-Resource-List.git" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
@@ -144,7 +144,7 @@ Here’s a repo where I hoard resource lists!
 -   <span id="e8b4"><a href="https://github.com/binhnguyennus/awesome-scalability" class="markup--anchor markup--li-anchor">Awesome Scalability</a></span>
 -   <span id="9050"><a href="https://github.com/drone/awesome-drone" class="markup--anchor markup--li-anchor">Awesome Drone</a></span>
 
-### Epic Github Repos
+### Epic Github Repos
 
 -   <span id="1cb2"><a href="https://github.com/mlabouardy?tab=repositories" class="markup--anchor markup--li-anchor">mlabouardy</a></span>
 
@@ -162,7 +162,7 @@ Here’s a repo where I hoard resource lists!
 
 ### Docker
 
-#### Deploy Stacks to your Swarm: 🐳 ❤️
+#### Deploy Stacks to your Swarm: 🐳 ❤️
 
 Logging:
 
@@ -173,12 +173,12 @@ Metrics:
 -   <span id="52cc"><a href="https://github.com/stefanprodan/swarmprom" class="markup--anchor markup--li-anchor">StefanProdan — Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager</a></span>
 -   <span id="d0e5"><a href="https://github.com/mlabouardy/swarm-tick" class="markup--anchor markup--li-anchor">Mlabouardy — Telegraf, InfluxDB, Chronograf, Kapacitor &amp; Slack</a></span>
 
-#### Awesome Docker Repos
+#### Awesome Docker Repos
 
--   <span id="8b0f"><a href="https://github.com/jessfraz/dockerfiles" class="markup--anchor markup--li-anchor">Jess’s Dockerfiles</a></span>
--   <span id="46e9"><a href="https://github.com/firecat53/dockerfiles" class="markup--anchor markup--li-anchor">Firecat53’s Dockerfiles</a></span>
+-   <span id="8b0f"><a href="https://github.com/jessfraz/dockerfiles" class="markup--anchor markup--li-anchor">Jess's Dockerfiles</a></span>
+-   <span id="46e9"><a href="https://github.com/firecat53/dockerfiles" class="markup--anchor markup--li-anchor">Firecat53's Dockerfiles</a></span>
 
-#### RaspberryPi ARM Images:
+#### RaspberryPi ARM Images:
 
 -   <span id="1cd6"><a href="https://hub.docker.com/r/arm32v6/alpine/" class="markup--anchor markup--li-anchor">arm32v6/alpine:edge</a></span>
 -   <span id="c5c2"><a href="https://hub.docker.com/r/arm32v6/golang/" class="markup--anchor markup--li-anchor">arm32v6/golang:alpine</a></span>
@@ -243,7 +243,7 @@ Metrics:
 -   <span id="da90"><a href="https://github.com/openfaas/faas/releases" class="markup--anchor markup--li-anchor">FaaS Releases</a></span>
 -   <span id="3af4"><a href="https://github.com/openfaas/workshop" class="markup--anchor markup--li-anchor">FaaS Workshop</a></span>
 
-#### Prometheus / Grafana on Swarm:
+#### Prometheus / Grafana on Swarm:
 
 -   <span id="f482"><a href="https://github.com/stefanprodan/swarmprom" class="markup--anchor markup--li-anchor">StefanProdan — SwarmProm</a></span>
 -   <span id="6ded"><a href="https://medium.com/@soumyadipde/monitoring-in-docker-stacks-its-that-easy-with-prometheus-5d71c1042443" class="markup--anchor markup--li-anchor">Monitoring with Prometheus</a></span>
@@ -251,7 +251,7 @@ Metrics:
 -   <span id="2849"><a href="https://github.com/chmod666org/docker-swarm-prometheus" class="markup--anchor markup--li-anchor">Chmod-Org Promethus with Blackbox</a></span>
 -   <span id="3995"><a href="https://finestructure.co/blog/2016/5/16/monitoring-with-prometheus-grafana-docker-part-1" class="markup--anchor markup--li-anchor">Finestructure: Prometheus Tutorial</a></span>
 
-### Logging / Kibana / Beats
+### Logging / Kibana / Beats
 
 ### Libraries
 
@@ -308,7 +308,7 @@ Metrics:
 -   <span id="db69"><a href="https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/" class="markup--anchor markup--li-anchor">Choosing the Right Partition Key</a></span>
 -   <span id="6d4c"><a href="https://cloudacademy.com/blog/amazon-dynamodb-ten-things/" class="markup--anchor markup--li-anchor">10 Things you should know</a></span>
 
-#### DynamoDB General Info
+#### DynamoDB General Info
 
 -   <span id="1006"><a href="https://medium.com/@yaofei/understand-dynamodb-b278f718ddb8" class="markup--anchor markup--li-anchor">Understanding DynamoDB</a></span>
 
@@ -388,7 +388,7 @@ Metrics:
 -   <span id="2583"><a href="http://mherman.org/" class="markup--anchor markup--li-anchor">Michael Herman</a></span>
 -   <span id="3e8c"><a href="http://charlesleifer.com/" class="markup--anchor markup--li-anchor">Charles Leifer</a></span>
 -   <span id="3b5d"><a href="https://www.blog.labouardy.com/" class="markup--anchor markup--li-anchor">Labouardy</a></span>
--   <span id="2759"><a href="https://tech.marksblogg.com/" class="markup--anchor markup--li-anchor">Mark’s Tech Blog</a></span>
+-   <span id="2759"><a href="https://tech.marksblogg.com/" class="markup--anchor markup--li-anchor">Mark's Tech Blog</a></span>
 
 ### Linuxkit:
 
@@ -435,7 +435,7 @@ Metrics:
 -   <span id="3810"><a href="https://medium.com/the-telegraph-engineering/how-prometheus-and-the-blackbox-exporter-makes-monitoring-microservice-endpoints-easy-and-free-of-a986078912ee" class="markup--anchor markup--li-anchor">Docker Swarm Promethus Setup #3 (Blackbox)</a></span>
 -   <span id="945a"><a href="https://github.com/fzaninotto/uptime" class="markup--anchor markup--li-anchor">Uptime (fzaninotto)</a></span>
 
-### Monitoring and Alerting
+### Monitoring and Alerting
 
 -   <span id="dccc"><a href="https://github.com/arachnys/cabot" class="markup--anchor markup--li-anchor">Cabot (Lightweight Pagerduty)</a></span>
 -   <span id="4e80"><a href="https://www.nagios.org/" class="markup--anchor markup--li-anchor">Nagios</a></span>
@@ -466,7 +466,7 @@ Metrics:
 -   <span id="bda7"><a href="https://gistpages.com/posts/ruby_arrays_insert_append_length_index_remove" class="markup--anchor markup--li-anchor">Learn Ruby: Arrays</a></span>
 -   <span id="bb79"><a href="https://gorails.com/setup/osx/10.12-sierra" class="markup--anchor markup--li-anchor">Install Ruby Environment on Mac</a></span>
 
-#### Ruby on Rails:
+#### Ruby on Rails:
 
 -   <span id="473f"><a href="https://www.railstutorial.org/book/beginning" class="markup--anchor markup--li-anchor">Tutorial: Ruby On Rails</a></span>
 -   <span id="2639"><a href="http://codingnudge.com/2017/03/17/tutorial-how-to-run-ruby-on-rails-on-docker-part-1/" class="markup--anchor markup--li-anchor">Tutorial: ROR on Docker</a></span>
@@ -488,7 +488,7 @@ Metrics:
 
 ### Self Hosting
 
-#### Email Server Setups
+#### Email Server Setups
 
 -   <span id="8cd4"><a href="https://www.exratione.com/2016/05/a-mailserver-on-ubuntu-16-04-postfix-dovecot-mysql/" class="markup--anchor markup--li-anchor">Extratione: Postfix Dovecot MySQL Virtual Users Postfixadmin</a></span>
 -   <span id="4409"><a href="https://www.exratione.com/2019/02/a-mailserver-on-ubuntu-18-04-postfix-dovecot-mysql/" class="markup--anchor markup--li-anchor">Extratione: Postfix Dovecot MySQL Virtual Users Postfixadmin (Ubuntu 18)</a></span>
@@ -496,7 +496,7 @@ Metrics:
 -   <span id="aa71"><a href="https://www.howtoforge.com/postfix_mysql_dovecot_dspam_clamav_postgrey_rbl_debian_etch" class="markup--anchor markup--li-anchor">Howtoforge: Postfix, MySQL, Dovecto, Dspam</a></span>
 -   <span id="35d1"><a href="https://linuxize.com/post/set-up-an-email-server-with-postfixadmin/" class="markup--anchor markup--li-anchor">Linuxsize: VirtualUsers, MySQL, Postfix, Dovecot</a></span>
 
-#### Mailscanner Server Setups
+#### Mailscanner Server Setups
 
 -   <span id="8498"><a href="https://syslint.com/blog/tutorial/how-to-install-and-configure-spamassassin-with-postfix-in-debian-8/" class="markup--anchor markup--li-anchor">Spamassassin with Debian 8</a></span>
 
@@ -541,9 +541,9 @@ Metrics:
 -   <span id="9d33"><a href="https://speakerdeck.com/mitsuhiko/advanced-flask-patterns-1" class="markup--anchor markup--li-anchor">Flask Advanced Patterns</a></span>
 -   <span id="adf1"><a href="https://github.com/tojrobinson/flask-mvc" class="markup--anchor markup--li-anchor">Flask MVC Boilerplate</a></span>
 
-### If you found this guide helpful feel free to checkout my GitHub/gists where I host similar content:
+### If you found this guide helpful feel free to checkout my GitHub/gists where I host similar content:
 
-<a href="https://gist.github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://gist.github.com/bgoonz"><strong>bgoonz’s gists</strong><br />
+<a href="https://gist.github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://gist.github.com/bgoonz"><strong>bgoonz's gists</strong><br />
 <em>Instantly share code, notes, and snippets. Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python |…</em>gist.github.com</a><a href="https://gist.github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
 
 <a href="https://github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz"><strong>bgoonz — Overview</strong><br />

@@ -11,7 +11,7 @@ The `toLocaleUpperCase()` method returns the calling string value converted to u
 ### Parameters
 
 `locale` <span class="badge inline optional">Optional</span>  
-The `locale` parameter indicates the locale to be used to convert to upper case according to any locale-specific case mappings. If multiple locales are given in an [`Array`](../array), the [best available locale](https://tc39.github.io/ecma402/#sec-bestavailablelocale) is used. The default locale is the host environment’s current locale.
+The `locale` parameter indicates the locale to be used to convert to upper case according to any locale-specific case mappings. If multiple locales are given in an [`Array`](../array), the [best available locale](https://tc39.github.io/ecma402/#sec-bestavailablelocale) is used. The default locale is the host environment's current locale.
 
 ### Return value
 
@@ -44,8 +44,12 @@ Also notice that conversion is not necessarily a 1:1 character mapping, as some 
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-string.prototype.tolocaleuppercase">ECMAScript Language Specification (ECMAScript)<br />
-<span class="small">#sec-string.prototype.tolocaleuppercase</span></a></td></tr><tr class="even"><td><a href="https://tc39.es/ecma402/#sup-string.prototype.tolocaleuppercase">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)<br />
+<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-string.prototype.tolocaleuppercase">ECMAScript Language Specification (ECMAScript) 
+<br/>
+
+<span class="small">#sec-string.prototype.tolocaleuppercase</span></a></td></tr><tr class="even"><td><a href="https://tc39.es/ecma402/#sup-string.prototype.tolocaleuppercase">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
+<br/>
+
 <span class="small">#sup-string.prototype.tolocaleuppercase</span></a></td></tr></tbody></table>
 
 ## Browser compatibility
