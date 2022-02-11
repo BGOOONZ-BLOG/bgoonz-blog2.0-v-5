@@ -14,6 +14,12 @@ module.exports = {
                 path: `${__dirname}/src/pages`
             }
         },
+            {
+              resolve: `gatsby-plugin-disqus`,
+              options: {
+                shortname: `webdevhub-1`,
+              }
+            },
         {
             resolve: `gatsby-plugin-sass`,
             options: {}
@@ -27,7 +33,13 @@ module.exports = {
             options: {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
+            },
+        },
+        {
+            resolve: `gatsby-plugin-disqus`,
+            options: {
+                shortname: `webdevhub-1`
             }
-        }
+        },
     ]
 };
