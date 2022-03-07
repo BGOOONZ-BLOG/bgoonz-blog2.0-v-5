@@ -297,12 +297,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: email
-        url: 'mailto:bryan.guner@gmail.com'
-        style: primary
-        icon_class: dev
-        new_window: false
-        no_follow: false
     type: section_cta
     subtitle: get in touch! +1 (551) - 254 - 5505
 seo:
