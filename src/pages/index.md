@@ -254,7 +254,6 @@ sections:
         encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     actions: []
     type: section_content
-    image: images/cool annimation.gif
   - section_id: tools
     image_alt: lorem-ipsum
     image_position: left
@@ -297,18 +296,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: email
-        url: 'mailto:bryan.guner@gmail.com'
-        style: primary
-        icon_class: dev
-        new_window: false
-        no_follow: false
-      - label: Subscribe (Youtube)
-        url: ' https://www.youtube.com/channel/UC9-rYyUMsnEBK8G8fCyrXXA?sub_confirmation=1'
-        style: primary
-        icon_class: dev
-        new_window: false
-        no_follow: false
     type: section_cta
     subtitle: get in touch! +1 (551) - 254 - 5505
 seo:
