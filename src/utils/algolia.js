@@ -14,11 +14,24 @@ const queryTemplate = (filters = ``, fields = ``) => `{
 }`;
 
 const processSlugs = (arr) =>
-    arr.map(({ fileAbsolutePath: fap, ...rest }) => (fap.includes(`web/projects`) ? { ...rest, slug: `/web?project=${rest.title}` } : rest));
+    arr.map(({ fileAbsolutePath: fap, ...rest }) =>
+        fap.includes(`web/projects`)
+            ? {
+                  ...rest,
+                  slug: `/web?project=${rest.title}`
+              }
+            : rest
+    );
 
-const flatten = (arr) => arr.map(({ frontmatter, ...rest }) => ({ ...frontmatter, ...rest }));
+const flatten = (arr) =>
+    arr.map(({ frontmatter, ...rest }) => ({
+        ...frontmatter,
+        ...rest
+    }));
 
-const settings = { attributesToSnippet: [`excerpt:20`] };
+const settings = {
+    attributesToSnippet: [`excerpt:20`]
+};
 
 const queries = [
     {

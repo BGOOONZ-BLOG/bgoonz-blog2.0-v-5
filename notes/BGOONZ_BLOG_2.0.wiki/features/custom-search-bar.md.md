@@ -6,11 +6,11 @@
 
 ---
 
-Easy steps to add a Google search bar or box to your website. You need not have any coding knowledge to follow the steps below. This method works with all major CMS’s such as WordPress, Ghost, Drupal, Joomla, etc.
+Easy steps to add a Google search bar or box to your website. You need not have any coding knowledge to follow the steps below. This method works with all major CMS's such as WordPress, Ghost, Drupal, Joomla, etc.
 
 ![How to add a Google Search Bar to your Website](https://cdn-bbeoo.nitrocdn.com/qmCVQYRCWGzHArsQEaxlonBAyCtBBIUq/assets/static/optimized/rev-5e70179/wp-content/uploads/2021/01/How-to-add-a-Google-Search-Bar-to-your-Website-1024x576.png)
 
-On-site search on any website is a crucial piece of technology since it allows users to search for content inside your website and helps reorganize your content strategy to match your products or blog content to what people are searching for on your website. The reason why Google search is so popular is that it is easy to implement and also it is reliable. There is another reason that people might like it or hate it – Ads. Yes, Google search has ads. It might be helpful for people looking to monetize their websites. For others, it might be a huge turn-off. If you belong to the second group, you might have to look for alternative custom search engines like [Expertrec](https://cse.expertrec.com/?platform=cse).
+On-site search on any website is a crucial piece of technology since it allows users to search for content inside your website and helps reorganize your content strategy to match your products or blog content to what people are searching for on your website. The reason why Google search is so popular is that it is easy to implement and also it is reliable. There is another reason that people might like it or hate it - Ads. Yes, Google search has ads. It might be helpful for people looking to monetize their websites. For others, it might be a huge turn-off. If you belong to the second group, you might have to look for alternative custom search engines like [Expertrec](https://cse.expertrec.com/?platform=cse).
 
 If you are on WordPress, it has a default search bar that adds basic search functionality. But it is lacking in many desirable search features such as auto-complete, more control over the search UI, and location of the search box. Word press users, can download our extension from this [link](https://wordpress.org/plugins/wp-fastest-site-search/). Detailed instructions on how to install the WordPress extension are given at the end of this blog.
 
@@ -20,25 +20,25 @@ If you are on WordPress, it has a default search bar that adds basic search func
 
 1.  To create a Programmable Search Engine:
 
-    1.  Sign in to [Control Panel](https://programmablesearchengine.google.com/create/new) using your Google Account ([get an account](https://www.google.com/accounts/NewAccount) if you don’t have one).
-    2.  The **name** of your search engine will be automatically generated based on the URLs you select. You can change this name at any time.
-    3.  Select the **language** of your search engine. This defines the language of the buttons and other design elements of your search engine but doesn’t affect the actual search results.
-    4.  Click **Create**.
+    1.  Sign in to [Control Panel](https://programmablesearchengine.google.com/create/new) using your Google Account ([get an account](https://www.google.com/accounts/NewAccount) if you don't have one).
+    2.  The **name** of your search engine will be automatically generated based on the URLs you select. You can change this name at any time.
+    3.  Select the **language** of your search engine. This defines the language of the buttons and other design elements of your search engine but doesn't affect the actual search results.
+    4.  Click **Create**.
 
-    Your basic search engine is ready to use! To see more configuration options, go to the [Control Panel](https://programmablesearchengine.google.com/). Control Panel also has a preview window that allows you to test and fine-tune your search results.
+    Your basic search engine is ready to use! To see more configuration options, go to the [Control Panel](https://programmablesearchengine.google.com/). Control Panel also has a preview window that allows you to test and fine-tune your search results.
 
-2.  Go to [https://cse.google.co.in/cse/](https://cse.google.co.in/cse/)[![add google search to website](https://cdn-bbeoo.nitrocdn.com/qmCVQYRCWGzHArsQEaxlonBAyCtBBIUq/assets/static/optimized/rev-5e70179/wp-content/uploads/2018/03/google-custom-search-bar.png)](https://blog.expertrec.com/add-search-to-website/)
-3.  Sign in to [Control Panel](https://programmablesearchengine.google.com/create/new) using your Google Account ([get an account](https://www.google.com/accounts/NewAccount) if you don’t have one).
-4.  The **name** of your search engine will be automatically generated based on the URLs you select. You can change this name at any time.
-5.  In the **Sites to search** section, add the pages you want to include in your search engine. You can include any sites you wish to, not just the sites you own. You can include whole site URLs or individual page URLs. You can also use [URL patterns](http://support.google.com/programmable-search/bin/answer.py?answer=71826).![add google search to website](https://cdn-bbeoo.nitrocdn.com/qmCVQYRCWGzHArsQEaxlonBAyCtBBIUq/assets/static/optimized/rev-5e70179/wp-content/uploads/2018/03/sites-to-search.png)
+2.  Go to [https://cse.google.co.in/cse/](https://cse.google.co.in/cse/)[![add google search to website](https://cdn-bbeoo.nitrocdn.com/qmCVQYRCWGzHArsQEaxlonBAyCtBBIUq/assets/static/optimized/rev-5e70179/wp-content/uploads/2018/03/google-custom-search-bar.png)](https://blog.expertrec.com/add-search-to-website/)
+3.  Sign in to [Control Panel](https://programmablesearchengine.google.com/create/new) using your Google Account ([get an account](https://www.google.com/accounts/NewAccount) if you don't have one).
+4.  The **name** of your search engine will be automatically generated based on the URLs you select. You can change this name at any time.
+5.  In the **Sites to search** section, add the pages you want to include in your search engine. You can include any sites you wish to, not just the sites you own. You can include whole site URLs or individual page URLs. You can also use [URL patterns](http://support.google.com/programmable-search/bin/answer.py?answer=71826).![add google search to website](https://cdn-bbeoo.nitrocdn.com/qmCVQYRCWGzHArsQEaxlonBAyCtBBIUq/assets/static/optimized/rev-5e70179/wp-content/uploads/2018/03/sites-to-search.png)
 
 ### Implementing Google search box
 
-Once you’ve created your Programmable Search Engine, you can add the Programmable Search Element to your site. To do this, you’ll need to copy some code and paste it into your site’s HTML where you want your search engine to appear.
+Once you've created your Programmable Search Engine, you can add the Programmable Search Element to your site. To do this, you'll need to copy some code and paste it into your site's HTML where you want your search engine to appear.
 
-1.  In the [Control Panel,](https://programmablesearchengine.google.com/) click the search engine you want to use.
-2.  Click **Setup** in the sidebar, and then click the **Basics** tab.
-3.  In the **Details** section, click **Get code**. Copy the code and paste it into your page’s HTML source code where you want the Google search bar to appear. Click on receive code.![add google search to website](https://cdn-bbeoo.nitrocdn.com/qmCVQYRCWGzHArsQEaxlonBAyCtBBIUq/assets/static/optimized/rev-5e70179/wp-content/uploads/2018/03/receive-code.png)
+1.  In the [Control Panel,](https://programmablesearchengine.google.com/) click the search engine you want to use.
+2.  Click **Setup** in the sidebar, and then click the **Basics** tab.
+3.  In the **Details** section, click **Get code**. Copy the code and paste it into your page's HTML source code where you want the Google search bar to appear. Click on receive code.![add google search to website](https://cdn-bbeoo.nitrocdn.com/qmCVQYRCWGzHArsQEaxlonBAyCtBBIUq/assets/static/optimized/rev-5e70179/wp-content/uploads/2018/03/receive-code.png)
 4.  Add this code to your website. If you are on Word press, you can use a plugin called Elementor or insert headers and footers plugin that will do this for you. If you want exact placement, you will have to edit your theme file by Appearance-> theme editor. If you are on another CMS, you can contact your developer and ask him to add it to all the pages you want this search bar to be shown.![add google search to website](https://cdn-bbeoo.nitrocdn.com/qmCVQYRCWGzHArsQEaxlonBAyCtBBIUq/assets/static/optimized/rev-5e70179/wp-content/uploads/2018/03/receive-code-2.png)
 5.  Once you add this code to your website, you will see the Google search bar on your website pages.
 
@@ -46,13 +46,13 @@ Once you’ve created your Programmable Search Engine, you can add the Programma
 
 On many occasions, it makes sense to have a search box appear independently from search results. A two-column layout allows you to render a search box in one area of your page (for instance in the sidebar) and display results in a different one (for instance the main area of the page).
 
-To change the layout of your engine go to the **Look and feel** section in the [Control Panel](https://programmablesearchengine.google.com/) and click the **Layout** tab. After selecting and saving the 2-column layout in the Control Panel, you also need to change the HTML code for the Search Element.
+To change the layout of your engine go to the **Look and feel** section in the [Control Panel](https://programmablesearchengine.google.com/) and click the **Layout** tab. After selecting and saving the 2-column layout in the Control Panel, you also need to change the HTML code for the Search Element.
 
 ### Enable Autocomplete
 
 Apart from customizing colors, fonts, or link style in the [Control Panel](https://programmablesearchengine.google.com/), it is possible to influence the look and feel and the behavior of the search box via custom HTML attributes.
 
-This allows you to override some of the general settings from the Control Panel. It is especially useful when you want one search box (e.g., one on the homepage) to behave differently than other ones on the site. For example, you can enable or disable the autocomplete feature using attributes. By default, it is set to `true` if autocomplete is enabled in the Control Panel. By switching the value to `false`, you can control how the element behaves.
+This allows you to override some of the general settings from the Control Panel. It is especially useful when you want one search box (e.g., one on the homepage) to behave differently than other ones on the site. For example, you can enable or disable the autocomplete feature using attributes. By default, it is set to `true` if autocomplete is enabled in the Control Panel. By switching the value to `false`, you can control how the element behaves.
 
 `<div class="gcse-searchbox"></div> <div class="gcse-searchresults" data-defaultToImageSearch="true"></div>`
 
@@ -60,9 +60,9 @@ This allows you to override some of the general settings from the Control Panel.
 
 In a similar way to customizing the search box, you can add additional options to the search results element.
 
-For example, to change our search engine from webresults-based to image-based, we can utilize the `defaultToImageSearch` attribute.
+For example, to change our search engine from webresults-based to image-based, we can utilize the `defaultToImageSearch` attribute.
 
-First of all, you need to enable Image Search in the [Control Panel](https://programmablesearchengine.google.com/) for your search engine. In the **Setup** section, in the **Basics** tab, click the **Image search** option into the “on” position. After that, add the `defaultToImageSearch` attribute to the `<div class="gcse-searchresults"></div>` element on your website.
+First of all, you need to enable Image Search in the [Control Panel](https://programmablesearchengine.google.com/) for your search engine. In the **Setup** section, in the **Basics** tab, click the **Image search** option into the "on” position. After that, add the `defaultToImageSearch` attribute to the `<div class="gcse-searchresults"></div>` element on your website.
 
 ### Advantages of adding Google custom search
 
@@ -78,22 +78,22 @@ First of all, you need to enable Image Search in the [Control Panel](https://pr
 -   Minimal UI customization options
 -   It can be shut down or changed at any time. Google is known for killing products ruthlessly without considering the user base.
 
-Though this might sound great to have Google search on your website, there is no free lunch.  Google shows ads to cover up for this service.  Now say, your site is about shoes of brand X.  when people search on your site for a shoe you have,  Google shows an ad of your competitor brand Y and **places it above** your site results.  Your visitors are going to believe that you indeed are recommending brand Y yourself.  If you are going to monetize your visitors, then this will drastically reduce your income.
+Though this might sound great to have Google search on your website, there is no free lunch. Google shows ads to cover up for this service. Now say, your site is about shoes of brand X. when people search on your site for a shoe you have, Google shows an ad of your competitor brand Y and **places it above** your site results. Your visitors are going to believe that you indeed are recommending brand Y yourself. If you are going to monetize your visitors, then this will drastically reduce your income.
 
-Second, no one likes ads. In my opinion, there is nothing like a “non-intrusive” ad. But, ads are Ads, and they are bad. I wouldn’t like to force my visitors to watch ads while they are searching on my website.  Method 2 will give an alternative but paid solution to this problem.
+Second, no one likes ads. In my opinion, there is nothing like a "non-intrusive” ad. But, ads are Ads, and they are bad. I wouldn't like to force my visitors to watch ads while they are searching on my website. Method 2 will give an alternative but paid solution to this problem.
 
 ## Google search bar for your website using Expertrec
 
-Expertrec adds a Google-like search box to your website. It is priced at 9 USD per month. The biggest advantage is that it doesn’t contain ads.
+Expertrec adds a Google-like search box to your website. It is priced at 9 USD per month. The biggest advantage is that it doesn't contain ads.
 
 Before starting to make a custom search engine using Expertrec, make sure that is your website is live and not behind a login (If your website is behind a login, follow steps in this [blog](https://blog.expertrec.com/crawling-behind-login-authenticated-pages/)). Have your sitemap URL handy. Also, make sure you have code access to your website. Follow the below steps.
 
 1.  Go to [https://cse.expertrec.com/?platform=cse](https://cse.expertrec.com/?platform=cse).
 2.  Login with your Gmail id.
 3.  Enter your website URL. (enter your website URL in the format https://www.yourwebsite.som).
-4.  Enter your sitemap URL. ( if you don’t have a sitemap, you can skip this step as well).
+4.  Enter your sitemap URL. ( if you don't have a sitemap, you can skip this step as well).
 5.  Initiate a website crawl. (Now Expertrec crawlers will start crawling your website. This could take some time depending on the size and number of pages on your website).
-6.  Once the crawl completes, you can make changes to your search engine’s look and feel and also to the search engine’s ranking algorithm by using the control panel. There are more advanced features like search weights, promotions, synonyms, and more.![add google search to website](https://cdn-bbeoo.nitrocdn.com/qmCVQYRCWGzHArsQEaxlonBAyCtBBIUq/assets/static/optimized/rev-5e70179/wp-content/uploads/2018/03/UI-editor.jpg)
+6.  Once the crawl completes, you can make changes to your search engine's look and feel and also to the search engine's ranking algorithm by using the control panel. There are more advanced features like search weights, promotions, synonyms, and more.![add google search to website](https://cdn-bbeoo.nitrocdn.com/qmCVQYRCWGzHArsQEaxlonBAyCtBBIUq/assets/static/optimized/rev-5e70179/wp-content/uploads/2018/03/UI-editor.jpg)
 7.  Go to the code section and add it to your website. You can also email the code to your developer and ask them to add it to their website.
     -   the code contains two portions ( one within **<script></script>** and another piece of code **<ci-search></ci-search>**).
     -   The <script></script> is just the JavaScript component and can be added using Google tag manager or using the code editor.
@@ -105,11 +105,11 @@ Before starting to make a custom search engine using Expertrec, make sure that i
 ## Advantages of Using Expertrec search bar
 
 1.  No Ads. We never show ads in our search results.
-2.  Affordable pricing plan. – We have prices starting at $9 per month.
-3.  Real-time support to help you take live your search on your website- You can be sure that search results don’t
+2.  Affordable pricing plan. - We have prices starting at $9 per month.
+3.  Real-time support to help you take live your search on your website- You can be sure that search results don't
 4.  Full control over search results.
 
-Happy searching.  Here is the signup link again [https://cse.expertrec.com?platform=cse](https://cse.expertrec.com/?platform=cse)
+Happy searching. Here is the signup link again [https://cse.expertrec.com?platform=cse](https://cse.expertrec.com/?platform=cse)
 
 ## Google search box using a plugin for WordPress websites
 
@@ -142,7 +142,7 @@ This plugin replaces your default WordPress search form. However, for some theme
 -   Advanced word matching and typo correction.
 -   The self Learning search algorithm continuously gets better.
 -   Highlighting Search term.
--   Responsive – works across all devices (mobile, tablet, desktop, android app).
+-   Responsive - works across all devices (mobile, tablet, desktop, android app).
 
 [Add a google search bar to your site for $9 per month](https://cse.expertrec.com/?platform=cse)
 
@@ -222,7 +222,7 @@ A search bar is necessary for a good website. Creating your own search engine fr
 
 ---
 
-# Implementing search box  |  Programmable Search Engine
+# Implementing search box | Programmable Search Engine
 
 > ## Excerpt
 >
@@ -253,7 +253,7 @@ To change the layout of your engine go to the **Look and feel** section in the [
 <!-- Insert your own Programmable Search Engine ID here --> <script async src="https://cse.google.com/cse.js?cx=017643444788069204610:4gvhea\_mvga"></script>
 
 ```
-<div style="border: 1px solid blue;">    Area 1 (for example a sidebar)    <div class="gcse-searchbox"></div></div><div style="border: 1px solid red;">    Area 2 (for example main area of the page)    <div class="gcse-searchresults"></div></div>
+<div style="border: 1px solid blue;">    Area 1 (for example a sidebar)    <div class="gcse-searchbox"></div></div><div style="border: 1px solid red;">    Area 2 (for example main area of the page)    <div class="gcse-searchresults"></div></div>
 ```
 
 Another interesting layout is the two-page option. It allows you to implement your own search box on one page and render the standard search results on another page using parameters in the address bar.
@@ -335,7 +335,7 @@ The above HTML is all we need to create a search bar. There are a few attributes
 
 -   type - This sets how the input looks on the screen. There are many types such as password, checkbox and radio yet here we are using search
 -   id - Setting an ID can make it easy to reference the input box from JavaScript which we will use later
--   name - It is common to use “q” for the search query box name
+-   name - It is common to use "q” for the search query box name
 -   placeholder - This is some text that gives a hint to the user on what the input is for
 
 When the HTML displays on the browser it looks like this:
@@ -352,8 +352,8 @@ Our form is not quite finished yet, we need to make sure that screen readers can
 
 To do this we have to make two changes to the form:
 
-1.  We need to add a `role` to the form with the value of “search”. Setting this will cause the screen readers to announce that this form is a search form.
-2.  We add a `aria-label` attribute to the `<input>` element. The screen reader will read aloud the value of this attribute. Set a value that describes what text the search form returns such as “Search through our site content”.
+1.  We need to add a `role` to the form with the value of "search”. Setting this will cause the screen readers to announce that this form is a search form.
+2.  We add a `aria-label` attribute to the `<input>` element. The screen reader will read aloud the value of this attribute. Set a value that describes what text the search form returns such as "Search through our site content”.
 
 This is our final HTML:
 

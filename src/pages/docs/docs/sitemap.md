@@ -20,6 +20,7 @@ template: docs
 ### 207. [**🏠Home🏠**](https://bgoonz-blog.netlify.app/)
 
 ---
+
 ---
 
 ### 0. [**🖥️blog/300-react-questions🌍**](https://bgoonz-blog.netlify.app/blog/300-react-questions)
@@ -30,7 +31,6 @@ template: docs
 
 ### 3. [**🖥️blog/blog-archive🌍**](https://bgoonz-blog.netlify.app/blog/blog-archive)
 
-### 4. [**🖥️blog/blogwcomments🌍**](https://bgoonz-blog.netlify.app/blog/blogwcomments)
 
 ### 5. [**🖥️blog/data-structures🌍**](https://bgoonz-blog.netlify.app/blog/data-structures)
 
@@ -57,6 +57,7 @@ template: docs
 ### 16. [**🖥️blog🌍**](https://bgoonz-blog.netlify.app/blog)
 
 ---
+
 ---
 
 ## DOCS:
@@ -432,5 +433,3 @@ template: docs
 ### 202. [**📖docs/tutorials🌍**](https://bgoonz-blog.netlify.app/docs/tutorials)
 
 ### 203. [**🖥️docs🌍**](https://bgoonz-blog.netlify.app/docs)
-
-

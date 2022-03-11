@@ -16,5 +16,8 @@ module.exports = {
     }
   }`,
     resolveSiteUrl: ({ site }) => site.meta.url,
-    serialize: ({ site, pages }) => pages.nodes.map((node) => ({ url: site.meta.url + node.path }))
+    serialize: ({ site, pages }) =>
+        pages.nodes.map((node) => ({
+            url: site.meta.url + node.path
+        }))
 };

@@ -24,7 +24,11 @@ module.exports = {
                         description: post.excerpt,
                         url: url + slug,
                         guid: url + slug,
-                        custom_elements: [{ 'content:encoded': post.html }]
+                        custom_elements: [
+                            {
+                                'content:encoded': post.html
+                            }
+                        ]
                     };
                 });
             },

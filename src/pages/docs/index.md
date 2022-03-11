@@ -27,39 +27,19 @@ weight: 900
 excerpt: docs quick reference
 ---
 
-# Go To Sitemap: [Go Now -->](./docs/sitemap/)
+# Go To [SITEMAP -->](./docs/sitemap/)
 
 ---
 
-<div id="search"></div>
+# Docs
 
-# Actual Docs:
-
-<br>
-<br>
-
-       <div id="search" />
-<br>
-               <div id="search" className="inner"></div>
-<br>
 <h1>  Docs</h1>
-<br>
 
-<iframe class="inner" src="https://docs42.netlify.app/#C:/MY-WEB-DEV/__NEW_GIT/DOCS/docs-collection" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0" ></iframe>
-
-<br>
-<hr>
-<br>
+<iframe sandbox="allow-scripts" style="resize:both; overflow:scroll;"    class="inner" src="https://docs42.netlify.app/#C:/MY-WEB-DEV/__NEW_GIT/DOCS/docs-collection" height="100%" width="800px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0" ></iframe>
 
 <h1>Gitpod Docs</h1>
-<br>
 
-<iframe class="inner" src="https://archive-42.github.io/my-docs-gitpod-html/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0" ></iframe>
-
-<br>
-<hr>
-<br>
-
+<iframe sandbox="allow-scripts" style="resize:both; overflow:scroll;"    class="inner" src="https://archive-42.github.io/my-docs-gitpod-html/" height="100%" width="800px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0" ></iframe>
 
 ---
 

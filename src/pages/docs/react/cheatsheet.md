@@ -12,7 +12,7 @@ template: docs
 
 # React Patterns:
 
-<iframe src="https://codesandbox.io/embed/lucid-pateu-ln8ex?fontsize=14&hidenavigation=1&theme=dark&view=preview"
+<iframe sandbox="allow-scripts" style="resize:both; overflow:scroll;"    src="https://codesandbox.io/embed/lucid-pateu-ln8ex?fontsize=14&hidenavigation=1&theme=dark&view=preview"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="lucid-pateu-ln8ex"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
@@ -190,8 +190,8 @@ class Component extends React.Component {
       active: true,
 
       // In rare cases, it's okay to initialize state based on props.
-      // This effectively “forks” the props and sets the state with the initial props.
-      // If you “fork” props by using them for state, you might also want to implement componentWillReceiveProps(nextProps)
+      // This effectively "forks" the props and sets the state with the initial props.
+      // If you "fork" props by using them for state, you might also want to implement componentWillReceiveProps(nextProps)
       // to keep the state up-to-date with them. But lifting state up is often easier and less bug-prone.
       color: props.initialColor
     };

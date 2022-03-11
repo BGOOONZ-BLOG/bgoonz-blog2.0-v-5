@@ -7,20 +7,20 @@ sections:
     - community
     - content
     - css
-    - data-structures
+    - ds-algo
     - docs
     - faq
     - interact
     - javascript
+    - js-tips
     - interview
     - leetcode
+    - overflow
     - projects
     - python
-    - quick-reference
+    - quick-ref
     - react
     - reference
     - tools
     - tips
     - tutorials
-
-
