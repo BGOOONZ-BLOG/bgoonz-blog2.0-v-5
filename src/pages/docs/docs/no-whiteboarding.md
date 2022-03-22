@@ -630,7 +630,7 @@ template: docs
 
 -   [Kiwi.com](https://code.kiwi.com/) | Brno, Czech Republic | Phone Interview, Take-home projects, On-site code review & interview
 
--   [KNPLabs](https://knplabs.com/) | Nantes, France | First step: screening call directly with the CEO, to discuss company vision, assess cultural fit and experience. Second step: call or IRL interview with a developer and a project facilitator , technical discussions with focus on soft skills. The goal of the interview is for the 2 KNPeers to be able to answer: “Do I want to work with this person ?” If both say yes, the person is hired. If even at least one says no, the person is not hired.
+-   [KNPLabs](https://knplabs.com/) | Nantes, France | First step: screening call directly with the CEO, to discuss company vision, assess cultural fit and experience. Second step: call or IRL interview with a developer and a project facilitator , technical discussions with focus on soft skills. The goal of the interview is for the 2 KNPeers to be able to answer: "Do I want to work with this person ?" If both say yes, the person is hired. If even at least one says no, the person is not hired.
 
 -   [Koddi Inc.](http://www.koddi.com/open-positions) | Fort Worth, TX | Phone Interview(s), take-home project, on-site interview
 
@@ -764,7 +764,7 @@ template: docs
 
 -   [Mutually Human Software](https://www.mutuallyhuman.com/) | MI, OH, WA | Collaborative problem analysis and design exercise, pairing exercise
 
--   [Nanobox](https://nanobox.io/) | Lehi, UT; Remote | A phone/video/person-to–person interview with a look at past projects (github, bitbucket, source code, etc.)
+-   [Nanobox](https://nanobox.io/) | Lehi, UT; Remote | A phone/video/person-to-person interview with a look at past projects (github, bitbucket, source code, etc.)
 
 -   [Native Instruments](https://www.native-instruments.com/) | Berlin, Germany | Takehome programming assignment and personal interviews with part of the hiring team.
 
@@ -798,7 +798,7 @@ template: docs
 
 -   [Noa](https://www.noa.one/) | Berlin, Germany; San Francisco, CA | 1 technical chat, 2-3 cultural chats with colleagues from different departments in the team, if these work a pair programming exercise
 
--   [NodeSource](http://nodesource.com/careers) | Remote | A person-to–person walk through of a past project of yours
+-   [NodeSource](http://nodesource.com/careers) | Remote | A person-to-person walk through of a past project of yours
 
 -   [Nomoko,camera](https://www.nomoko.world/jobs) | Zurich, Switzerland | Three interrogations
 
@@ -1048,7 +1048,7 @@ template: docs
 
 -   [SocialCops](http://www.socialcops.com/) | New Delhi, India | A mini project (to be done within 8 days), followed by a discussion with the team you're applying to. Then as the final step, a call with one of the founders.
 
--   [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry – remotely – in an international team.
+-   [Softwear](http://nl.softwear.nl/vacatures) | Amsterdam, Netherlands | Writing software for the fashion industry - remotely - in an international team.
 
 -   [Sogilis](http://sogilis.com/) | Grenoble, France | Discussion about interests, practices, and motivation. Presentation/code review/pair programming on a personal or professional project.
 
@@ -1090,7 +1090,7 @@ template: docs
 
 -   [SweetIQ](https://sweetiq.com/about/careers) | Montreal, Canada | Discussion and general, high level questions
 
--   [Symphony Commerce](https://www.symphonycommerce.com/careers) | San Francisco, CA / Remote | Take-home project (phone), design discussion, review and critique *our* code, debugging questions
+-   [Symphony Commerce](https://www.symphonycommerce.com/careers) | San Francisco, CA / Remote | Take-home project (phone), design discussion, review and critique _our_ code, debugging questions
 
 -   [Symplicity](https://www.symplicity.com/about/join-us) | Arlington, VA | Take-home project and code review in-person
 

@@ -7,8 +7,8 @@ excerpt: >-
     Bubble sort, sorts an array of integers by bubbling the largest integer to the
     top.
 seo:
-    title: ''
-    description: ''
+    title: 'Big O'
+    description: 'Big O Computational Complexity'
     robots: []
     extra: []
 template: post
@@ -68,15 +68,15 @@ Space Complexity: O(1)
 
 > Summary of how Selection Sort should work:
 
-1.  _Set MIN to location 0_
+1. _Set MIN to location 0_
 
-2.  _Search the minimum element in the list._
+2. _Search the minimum element in the list._
 
-3.  _Swap with value at location Min_
+3. _Swap with value at location Min_
 
-4.  _Increment Min to point to next element._
+4. _Increment Min to point to next element._
 
-5.  _Repeat until list is sorted._
+5. _Repeat until list is sorted._
 
 <https://gist.github.com/eengineergz/61f130c8e0097572ed908fe2629bdee0>
 
@@ -110,11 +110,11 @@ Time Complexity: Log Linear O(nlog(n))
 
 > Steps:
 
-1.  _If there is only one element in the list, it is already sorted; return the array._
+1. _If there is only one element in the list, it is already sorted; return the array._
 
-2.  _Otherwise, divide the list recursively into two halves until it can no longer be divided._
+2. _Otherwise, divide the list recursively into two halves until it can no longer be divided._
 
-3.  _Merge the smallest lists into new list in a sorted order._
+3. _Merge the smallest lists into new list in a sorted order._
 
 ### Quick Sort
 
@@ -162,16 +162,16 @@ Space Complexity: O(1)
 
 > Steps:
 
-1.  _If it is the first element, and it is already sorted; return 1._
+1. _If it is the first element, and it is already sorted; return 1._
 
-2.  _Pick next element._
+2. _Pick next element._
 
-3.  _Compare with all elements in the sorted sub list_
+3. _Compare with all elements in the sorted sub list_
 
-4.  _Shift all the elements in the sorted sub list that is greater than the value to be sorted._
+4. _Shift all the elements in the sorted sub list that is greater than the value to be sorted._
 
-5.  _Insert the value_
+5. _Insert the value_
 
-6.  _Repeat until list is sorted._
+6. _Repeat until list is sorted._
 
 <https://gist.github.com/eengineergz/ffead1de0836c4bcc6445780a604f617>

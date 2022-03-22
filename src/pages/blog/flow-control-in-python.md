@@ -2,11 +2,11 @@
 title: flow-control-in-python
 subtitle: flow-control-in-python
 date: '2021-10-14'
-thumb_image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+thumb_image_alt: python logo
+excerpt: These operators evaluate to True or False depending on the values you give them
 seo:
-    title: ''
-    description: ''
+    title: flow-control-in-python'
+    description: 'These operators evaluate to True or False depending on the values you give them'
     robots: []
     extra: []
 template: post
