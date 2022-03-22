@@ -225,7 +225,12 @@ Our memo object is _mapping_ out our arguments of factorial to it's return value
 1.  _When solving DP problems with Memoization, it is helpful to draw out the visual tree first._
 2.  _When you notice duplicate sub-tree's that means we can memoize._
 
+---
+
+
 ```js
+
+
 function fastFib(n, memo = {}) {
     if (n in memo) return memo[n];
     if (n === 1 || n === 2) return 1;
@@ -1387,7 +1392,7 @@ function factorial(n) {
     return n * factorial(n - 1); //*  n! = n * (n-1) *  (n-2) * (n-3) * ... * 1
 }
 factorial(5); //*5 * 4 * 3 * 2 * 1 = 120 <----expected
-//console.log( "factorial(5): ", factorial( 5 ) ); //-    factorial(5):  120
+//console.log( "factorial(5): ", factorial( 5 ) ); //-  factorial(5):  120
 /*
 Fibonacci numbers are the numbers such that every number in the series after the first two is the sum of the two preceding ones.
 The series starts with 1, 1. Example −1, 1, 2, 3, 5, 8, 13, 21, 34, ….

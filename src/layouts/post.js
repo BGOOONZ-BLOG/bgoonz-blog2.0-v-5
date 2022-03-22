@@ -1,13 +1,11 @@
-import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
-
-import { Layout } from '../components/index';
+import React from 'react';
+import Footer from '../components/Footer';
 import Header from '../components/Header';
 import HeaderAlt from '../components/HeaderAlt';
-import Footer from '../components/Footer';
+import { Layout } from '../components/index';
 import { htmlToReact, markdownify } from '../utils';
-
 export default class Post extends React.Component {
     render() {
         const data = _.get(this.props, 'data');
@@ -22,7 +20,6 @@ export default class Post extends React.Component {
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
         const formattedDate = moment(date).strftime('%B %d, %Y');
         const markdownContent = _.get(page, 'markdown_content');
-
         return (
             <Layout page={page} config={config}>
                 {hideHeader ? <HeaderAlt /> : <Header config={config} page={page} image={headerImage} />}

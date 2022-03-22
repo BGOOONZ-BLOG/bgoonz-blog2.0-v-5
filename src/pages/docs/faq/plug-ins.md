@@ -205,14 +205,13 @@ template: docs
 
 ##### Gatsby Source Data
 
-````
+```
 <pre>
-```javascript
+```js
 
+```
 
-````
-
-```javascript
+```js
 const path = require('path');
 const yaml = require('js-yaml');
 const fse = require('fs-extra');
@@ -342,6 +341,6 @@ function convertDataFilesToJSON(dataFiles, dataDirPath, reporter) {
 }
 ```
 
-```javascript
+```js
 </pre>
 ```
