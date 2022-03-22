@@ -18,8 +18,13 @@ export default class Body extends React.Component {
                             ? _.get(this.props, 'pageContext.frontmatter.seo.title', null)
                             : _.get(this.props, 'pageContext.frontmatter.title', null) + ' | ' + _.get(this.props, 'pageContext.site.siteMetadata.title', null)}
                     </title>
-                    <meta charSet="utf-8" />
-                    <meta name="viewport" content="width=device-width, initialScale=1.0" />
+                    <meta name="google-site-verification" content="q5W83EYchlVTyA-iYRE4ElQGcbD_vukQF0NKW12N3qU" />
+                    <meta charSet="UTF-8" />
+                    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+                    <meta name="Author" content="Bryan Guner" />
+                    <meta name="keywords" content="HTML, Meta Tags, Metadata" />
+                    <meta name="description" content="Learning about Web Development." />
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                     <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.seo.description', null) || ''} />
                     {_.get(this.props, 'pageContext.frontmatter.seo.robots', null) && (
                         <meta name="robots" content={_.join(_.get(this.props, 'pageContext.frontmatter.seo.robots', null), ',')} />
@@ -38,6 +43,8 @@ export default class Body extends React.Component {
                             <meta key={meta_idx + '.1'} {...attribute(key_name, _.get(meta, 'name', null))} content={_.get(meta, 'value', null)} />
                         );
                     })}
+                    <link rel="apple-touch-icon" href="logo-circle.png" />
+                    <link type="image/x-icon" href="./favicon.ico" rel="shortcut icon" />
                     <link rel="preconnect" href="https://fonts.gstatic.com" />
                     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet" />
                     {_.get(this.props, 'pageContext.site.siteMetadata.favicon', null) && (
