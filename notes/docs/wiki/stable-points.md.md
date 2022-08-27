@@ -1,1 +1,0 @@
--   [stable 8-13-2021](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/commit/0c09a707f4bfddd974a31d97a4f8d716f1858ef8) or [or maybe](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/commit/68fba78e36fffcf21288ea0e90e1075bf31b2a82)
