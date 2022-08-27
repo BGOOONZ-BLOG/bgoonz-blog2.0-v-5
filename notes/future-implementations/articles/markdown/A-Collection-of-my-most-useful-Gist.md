@@ -8,7 +8,7 @@ This list is in no particular order!
 
 **This list is in no particular order!**
 
-<a href="https://bgoonz-blog.netlify.app/" class="markup--anchor markup--p-anchor">https://bgoonz-blog.netlify.app/</a>
+<a href="https://blog3-backup-dd7df.netlify.app/" class="markup--anchor markup--p-anchor">https://blog3-backup-dd7df.netlify.app/</a>
 
 #### If you found this guide helpful feel free to checkout my github/gists where I host similar content:
 
@@ -19,7 +19,7 @@ This list is in no particular order!
 
 Or Checkout my personal Resource Site:
 
-<a href="https://bgoonz-blog.netlify.app/" class="markup--anchor markup--p-anchor">https://bgoonz-blog.netlify.app/</a>
+<a href="https://blog3-backup-dd7df.netlify.app/" class="markup--anchor markup--p-anchor">https://blog3-backup-dd7df.netlify.app/</a>
 
 By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner</a> on [March 6, 2021](https://medium.com/p/f4314f3ba3ab).
 

@@ -1,4 +1,4 @@
-# Validation results for https://bgoonz-blog.netlify.app/
+# Validation results for https://blog3-backup-dd7df.netlify.app/
 
 > Error: A charset attribute on a meta element found after the first 1024 bytes.
 
@@ -322,10 +322,10 @@ Purely decorative images should have the empty string as the textual alternative
 
 | Image                                                         | Location                                                           |
 | ------------------------------------------------------------- | ------------------------------------------------------------------ |
-| ![](https://bgoonz-blog.netlify.app/images/my-back.png)       | [From line 36, column 11296; to line 36, column 11327](#l36c11327) |
-| ![](https://bgoonz-blog.netlify.app/images/panoramic-owl.png) | [From line 37, column 937; to line 37, column 974](#l37c974)       |
-| ![](https://bgoonz-blog.netlify.app/images/resume.JPG)        | [From line 37, column 7136; to line 37, column 7166](#l37c7166)    |
-| ![](https://bgoonz-blog.netlify.app/images/My%20Post.png)     | [From line 37, column 7575; to line 37, column 7606](#l37c7606)    |
+| ![](https://blog3-backup-dd7df.netlify.app/images/my-back.png)       | [From line 36, column 11296; to line 36, column 11327](#l36c11327) |
+| ![](https://blog3-backup-dd7df.netlify.app/images/panoramic-owl.png) | [From line 37, column 937; to line 37, column 974](#l37c974)       |
+| ![](https://blog3-backup-dd7df.netlify.app/images/resume.JPG)        | [From line 37, column 7136; to line 37, column 7166](#l37c7166)    |
+| ![](https://blog3-backup-dd7df.netlify.app/images/My%20Post.png)     | [From line 37, column 7575; to line 37, column 7606](#l37c7606)    |
 
 ### Empty textual alternative—Omitted from non-graphical presentation
 
@@ -343,8 +343,8 @@ If the page would become less understandable if the presence of an image was con
 | ![](https://img.icons8.com/color/96/000000/pinterest--v1.png)            | [From line 36, column 10456; to line 36, column 10531](#l36c10531) |
 | ![](https://img.icons8.com/color/96/000000/linkedin.png)                 | [From line 36, column 10597; to line 36, column 10667](#l36c10667) |
 | ![](https://img.icons8.com/color/96/000000/medium-logo.png)              | [From line 36, column 10714; to line 36, column 10787](#l36c10787) |
-| ![](https://bgoonz-blog.netlify.app/_static/app-assets/neural.PNG)       | [From line 37, column 6025; to line 37, column 6074](#l37c6074)    |
-| ![](https://bgoonz-blog.netlify.app/_static/app-assets/lambda-demo1.gif) | [From line 37, column 7698; to line 37, column 7753](#l37c7753)    |
+| ![](https://blog3-backup-dd7df.netlify.app/_static/app-assets/neural.PNG)       | [From line 37, column 6025; to line 37, column 6074](#l37c6074)    |
+| ![](https://blog3-backup-dd7df.netlify.app/_static/app-assets/lambda-demo1.gif) | [From line 37, column 7698; to line 37, column 7753](#l37c7753)    |
 
 ### Images with textual alternative
 
@@ -354,12 +354,12 @@ Note that iconic images that are redundant with text next to them or purely deco
 
 | Image                                                                | Textual alternative       | Location                                                        |
 | -------------------------------------------------------------------- | ------------------------- | --------------------------------------------------------------- |
-| ![](https://bgoonz-blog.netlify.app/images/logo-circle.png)          | webdevhub logo            | [From line 36, column 402; to line 36, column 458](#l36c458)    |
-| ![](https://bgoonz-blog.netlify.app/images/smiling-maple.png)        | python                    | [From line 37, column 252; to line 37, column 302](#l37c302)    |
-| ![](https://bgoonz-blog.netlify.app/images/successful-panda.gif)     | img of dtw                | [From line 37, column 1471; to line 37, column 1528](#l37c1528) |
-| ![](https://bgoonz-blog.netlify.app/images/pleasant-birch.png)       | img of react              | [From line 37, column 2072; to line 37, column 2129](#l37c2129) |
-| ![](https://bgoonz-blog.netlify.app/images/curious-mustard.png)      | Every idea needs a medium | [From line 37, column 2603; to line 37, column 2674](#l37c2674) |
-| ![](https://bgoonz-blog.netlify.app/images/goals.jpg)                | medium                    | [From line 37, column 3282; to line 37, column 3324](#l37c3324) |
+| ![](https://blog3-backup-dd7df.netlify.app/images/logo-circle.png)          | webdevhub logo            | [From line 36, column 402; to line 36, column 458](#l36c458)    |
+| ![](https://blog3-backup-dd7df.netlify.app/images/smiling-maple.png)        | python                    | [From line 37, column 252; to line 37, column 302](#l37c302)    |
+| ![](https://blog3-backup-dd7df.netlify.app/images/successful-panda.gif)     | img of dtw                | [From line 37, column 1471; to line 37, column 1528](#l37c1528) |
+| ![](https://blog3-backup-dd7df.netlify.app/images/pleasant-birch.png)       | img of react              | [From line 37, column 2072; to line 37, column 2129](#l37c2129) |
+| ![](https://blog3-backup-dd7df.netlify.app/images/curious-mustard.png)      | Every idea needs a medium | [From line 37, column 2603; to line 37, column 2674](#l37c2674) |
+| ![](https://blog3-backup-dd7df.netlify.app/images/goals.jpg)                | medium                    | [From line 37, column 3282; to line 37, column 3324](#l37c3324) |
 | ![](https://bgoonz-blog.netlify.app/images/spectacular-turmeric.png) | angolia                   | [From line 37, column 5205; to line 37, column 5263](#l37c5263) |
 | ![](https://bgoonz-blog.netlify.app/images/neural.PNG)               | neural networks           | [From line 37, column 5635; to line 37, column 5687](#l37c5687) |
 | ![](https://bgoonz-blog.netlify.app/images/jamstack.png)             | jamstack                  | [From line 37, column 6216; to line 37, column 6263](#l37c6263) |

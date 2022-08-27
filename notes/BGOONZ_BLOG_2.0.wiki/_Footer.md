@@ -8,7 +8,7 @@
 -   [midway-commit](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/tree/92d88002bebcde66b47d8109222ac62c64fa9909)
 -   [blog2.0 backups](https://gist.github.com/bgoonz/68203bca236305d93d75e87533c7e8b8)
 -   [backup repo](https://github.com/bgoonz/blog-2.o-versions)
--   [autogen sitemap](https://bgoonz-blog.netlify.app/sitemap.xml)
+-   [autogen sitemap](https://blog3-backup-dd7df.netlify.app/sitemap.xml)
 -   [Home](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki)
 -   [contentauthoring.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/contentauthoring.md)
 -   [inject3.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/inject3.md)
