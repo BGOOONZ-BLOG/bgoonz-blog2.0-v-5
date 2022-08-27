@@ -220,7 +220,7 @@ This is a basic introduction for those who feel overwhelmed by the vast microcos
         React.createElement(
           "li",
           { className: "is-selected" },
-          React.createElement("a", { href: "https://bgoonz-blog.netlify.app/" }, "BgoonzBlog2.0")
+          React.createElement("a", { href: "https://blog3-backup-dd7df.netlify.app/" }, "BgoonzBlog2.0")
         ),
         React.createElement(
           "li",

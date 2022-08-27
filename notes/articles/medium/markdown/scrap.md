@@ -12,17 +12,17 @@
 
 **Projects**
 
-**Gatsby-Gr\*\***aphQL-Blog\*\*[Live Site ](https://bgoonz-blog.netlify.app/)[GitHub](https://github.com/bgoonz/BGOONZ_BLOG_2.0)
+**Gatsby-Gr\*\***aphQL-Blog\*\*[Live Site ](https://blog3-backup-dd7df.netlify.app/)[GitHub](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5)
 
 _JavaScript, React / Gatsby | GraphQL | SCSS | Lodash | Jamstack | Facebook Comments API | jQuery_
 
-**_A _**[**_web development blog_**](https://bgoonz-blog.netlify.app/)**_, featuring convenient web development tools and interactive content._**
+**_A _**[**_web development blog_**](https://blog3-backup-dd7df.netlify.app/)**_, featuring convenient web development tools and interactive content._**
 
 ● Implemented 4 Gatsby page models and GraphQL schema to fetch markdown content and feed it into react components.
 
-● Designed and integrated a set of convenient web-hosted [developer tools](https://bgoonz-blog.netlify.app/docs/tools/) and GUI interfaces.
+● Designed and integrated a set of convenient web-hosted [developer tools](https://blog3-backup-dd7df.netlify.app/docs/tools/) and GUI interfaces.
 
-● Added interactive content including comments, [video conferencing](https://bgoonz-blog.netlify.app/docs/interact/video-chat/), [data-structure visualization](https://bgoonz-blog.netlify.app/docs/interact/other-sites/), [games](https://bgoonz-blog.netlify.app/docs/interact/) and full text search.
+● Added interactive content including comments, [video conferencing](https://blog3-backup-dd7df.netlify.app/docs/interact/video-chat/), [data-structure visualization](https://blog3-backup-dd7df.netlify.app/docs/interact/other-sites/), [games](https://blog3-backup-dd7df.netlify.app/docs/interact/) and full text search.
 
 [**Autonomously Triggered Guitar Effects Platform**](https://www.youtube.com/watch?v=pRKjaprdWx4)[Live Site ](https://bgoonz.github.io/Revamped-Automatic-Guitar-Effect-Triggering/) [GitHub](https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/Triggered-Guitar-Effects-Platform)
 

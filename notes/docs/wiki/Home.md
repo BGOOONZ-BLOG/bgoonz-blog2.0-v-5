@@ -4,13 +4,13 @@
 
 <div align="center">
 
-![codehealth](https://github.com/bgoonz/BGOONZ_BLOG_2.0/raw/master/static/images/codehealth.JPG)
+![codehealth](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/raw/master/static/images/codehealth.JPG)
 
-##### [WEBSITE](https://bgoonz-blog.netlify.app/) ~~~ [Vercel Backup](https://bgoonz-blog-2-0-iuovoktmh-bgoonz.vercel.app/) ~~~ [Digital Ocean Backup](https://bgoonz-blog-2-0-gfvz5.ondigitalocean.app/) ~~~ [Gatsby Cloud Deploy](https://bgoonzblog20master.gatsbyjs.io/)
+##### [WEBSITE](https://blog3-backup-dd7df.netlify.app/) ~~~ [Vercel Backup](https://bgoonz-blog-2-0-iuovoktmh-bgoonz.vercel.app/) ~~~ [Digital Ocean Backup](https://bgoonz-blog-2-0-gfvz5.ondigitalocean.app/) ~~~ [Gatsby Cloud Deploy](https://bgoonzblog20master.gatsbyjs.io/)
 
 ![Profile views](https://views.whatilearened.today/views/github/bgoonz/views.svg)[![Gitter](https://badges.gitter.im/bgoonz/community.svg)](https://gitter.im/bgoonz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)[![Netlify Status](https://api.netlify.com/api/v1/badges/a1b7ee1a-11a7-4bd2-a341-2260656e216f/deploy-status)](https://app.netlify.com/sites/best-celery-b2d7c/deploys)[![CodeScene Code Health](https://codescene.io/projects/17026/status-badges/code-health)](https://codescene.io/projects/17026)[![CodeScene System Mastery](https://codescene.io/projects/17026/status-badges/system-mastery)](https://codescene.io/projects/17026)
 
-![blog](https://github.com/bgoonz/BGOONZ_BLOG_2.0/raw/master/static/images/blog-img.png)
+![blog](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/raw/master/static/images/blog-img.png)
 
 </div>
 
@@ -95,43 +95,43 @@
 
 ##### [stackblitz demo hosted on firebase](https://exploring-firebase-4c023.firebaseapp.com/)
 
--   [/showcase/](https://bgoonz-blog.netlify.app/showcase/)
--   [/repos/](https://bgoonz-blog.netlify.app/repos/)
--   [/blog/](https://bgoonz-blog.netlify.app/blog/)
--   [/docs/jupyter-notebooks/](https://bgoonz-blog.netlify.app/docs/jupyter-notebooks/)
--   [/docs/portfolio-web/](https://bgoonz-blog.netlify.app/docs/portfolio-web/)
--   [/docs/python/](https://bgoonz-blog.netlify.app/docs/python/)
--   [/docs/About/](https://bgoonz-blog.netlify.app/docs/About/)
--   [/docs/About/resume/](https://bgoonz-blog.netlify.app/docs/About/resume/)
--   [/docs/about/](https://bgoonz-blog.netlify.app/docs/about/)
--   [/docs/faq/](https://bgoonz-blog.netlify.app/docs/faq/)
--   [/docs/quick-reference/](https://bgoonz-blog.netlify.app/docs/quick-reference/)
--   [/docs/quick-reference/Emmet/](https://bgoonz-blog.netlify.app/docs/quick-reference/Emmet/)
--   [/docs/quick-reference/new-repo-instructions/](https://bgoonz-blog.netlify.app/docs/quick-reference/new-repo-instructions/)
--   [/docs/links/Social/](https://bgoonz-blog.netlify.app/docs/links/Social/)
--   [/docs/links/](https://bgoonz-blog.netlify.app/docs/links/)
--   [/docs/quick-reference/installation/](https://bgoonz-blog.netlify.app/docs/quick-reference/installation/)
--   [/docs/links/my-websites/](https://bgoonz-blog.netlify.app/docs/links/my-websites/)
--   [/docs/](https://bgoonz-blog.netlify.app/docs/)
--   [/blog/community/](https://bgoonz-blog.netlify.app/blog/community/)
--   [/blog/python/](https://bgoonz-blog.netlify.app/blog/python/)
--   [/docs/resources/](https://bgoonz-blog.netlify.app/docs/resources/)
--   [/docs/react/createReactApp/](https://bgoonz-blog.netlify.app/docs/react/createReactApp/)
--   [/docs/tools/](https://bgoonz-blog.netlify.app/docs/tools/)
--   [/notes-template/](https://bgoonz-blog.netlify.app/notes-template/)
--   [/blog/my-medium/](https://bgoonz-blog.netlify.app/blog/my-medium/)
--   [/docs/tools/default-readme/](https://bgoonz-blog.netlify.app/docs/tools/default-readme/)
--   [/docs/tools/plug-ins/](https://bgoonz-blog.netlify.app/docs/tools/plug-ins/)
--   [/docs/react/react2/](https://bgoonz-blog.netlify.app/docs/react/react2/)
--   [/docs/tools/notes-template/](https://bgoonz-blog.netlify.app/docs/tools/notes-template/)
--   [/review/](https://bgoonz-blog.netlify.app/review/)
--   [/docs/articles/basic-web-dev/](https://bgoonz-blog.netlify.app/docs/articles/basic-web-dev/)
--   [/blog/data-structures/](https://bgoonz-blog.netlify.app/blog/data-structures/)
--   [/docs/About/me/](https://bgoonz-blog.netlify.app/docs/About/me/)
--   [/docs/About/introduction2bg/](https://bgoonz-blog.netlify.app/docs/About/introduction2bg/)
--   [/docs/react/](https://bgoonz-blog.netlify.app/docs/react/)
--   [/docs/tools/Git-Html-Preview/](https://bgoonz-blog.netlify.app/docs/tools/Git-Html-Preview/)
--   [/gallery/](https://bgoonz-blog.netlify.app/gallery/)
+-   [/showcase/](https://blog3-backup-dd7df.netlify.app/showcase/)
+-   [/repos/](https://blog3-backup-dd7df.netlify.app/repos/)
+-   [/blog/](https://blog3-backup-dd7df.netlify.app/blog/)
+-   [/docs/jupyter-notebooks/](https://blog3-backup-dd7df.netlify.app/docs/jupyter-notebooks/)
+-   [/docs/portfolio-web/](https://blog3-backup-dd7df.netlify.app/docs/portfolio-web/)
+-   [/docs/python/](https://blog3-backup-dd7df.netlify.app/docs/python/)
+-   [/docs/About/](https://blog3-backup-dd7df.netlify.app/docs/About/)
+-   [/docs/About/resume/](https://blog3-backup-dd7df.netlify.app/docs/About/resume/)
+-   [/docs/about/](https://blog3-backup-dd7df.netlify.app/docs/about/)
+-   [/docs/faq/](https://blog3-backup-dd7df.netlify.app/docs/faq/)
+-   [/docs/quick-reference/](https://blog3-backup-dd7df.netlify.app/docs/quick-reference/)
+-   [/docs/quick-reference/Emmet/](https://blog3-backup-dd7df.netlify.app/docs/quick-reference/Emmet/)
+-   [/docs/quick-reference/new-repo-instructions/](https://blog3-backup-dd7df.netlify.app/docs/quick-reference/new-repo-instructions/)
+-   [/docs/links/Social/](https://blog3-backup-dd7df.netlify.app/docs/links/Social/)
+-   [/docs/links/](https://blog3-backup-dd7df.netlify.app/docs/links/)
+-   [/docs/quick-reference/installation/](https://blog3-backup-dd7df.netlify.app/docs/quick-reference/installation/)
+-   [/docs/links/my-websites/](https://blog3-backup-dd7df.netlify.app/docs/links/my-websites/)
+-   [/docs/](https://blog3-backup-dd7df.netlify.app/docs/)
+-   [/blog/community/](https://blog3-backup-dd7df.netlify.app/blog/community/)
+-   [/blog/python/](https://blog3-backup-dd7df.netlify.app/blog/python/)
+-   [/docs/resources/](https://blog3-backup-dd7df.netlify.app/docs/resources/)
+-   [/docs/react/createReactApp/](https://blog3-backup-dd7df.netlify.app/docs/react/createReactApp/)
+-   [/docs/tools/](https://blog3-backup-dd7df.netlify.app/docs/tools/)
+-   [/notes-template/](https://blog3-backup-dd7df.netlify.app/notes-template/)
+-   [/blog/my-medium/](https://blog3-backup-dd7df.netlify.app/blog/my-medium/)
+-   [/docs/tools/default-readme/](https://blog3-backup-dd7df.netlify.app/docs/tools/default-readme/)
+-   [/docs/tools/plug-ins/](https://blog3-backup-dd7df.netlify.app/docs/tools/plug-ins/)
+-   [/docs/react/react2/](https://blog3-backup-dd7df.netlify.app/docs/react/react2/)
+-   [/docs/tools/notes-template/](https://blog3-backup-dd7df.netlify.app/docs/tools/notes-template/)
+-   [/review/](https://blog3-backup-dd7df.netlify.app/review/)
+-   [/docs/articles/basic-web-dev/](https://blog3-backup-dd7df.netlify.app/docs/articles/basic-web-dev/)
+-   [/blog/data-structures/](https://blog3-backup-dd7df.netlify.app/blog/data-structures/)
+-   [/docs/About/me/](https://blog3-backup-dd7df.netlify.app/docs/About/me/)
+-   [/docs/About/introduction2bg/](https://blog3-backup-dd7df.netlify.app/docs/About/introduction2bg/)
+-   [/docs/react/](https://blog3-backup-dd7df.netlify.app/docs/react/)
+-   [/docs/tools/Git-Html-Preview/](https://blog3-backup-dd7df.netlify.app/docs/tools/Git-Html-Preview/)
+-   [/gallery/](https://blog3-backup-dd7df.netlify.app/gallery/)
 
 ## Dependencies:
 
@@ -197,7 +197,7 @@ These dependencies are defined in **BGOONZ_BLOG_2.0**’s manifest files, such a
 
 <button> <button>
 
-[Source](https://github.com/bgoonz/BGOONZ_BLOG_2.0/network/dependencies)
+[Source](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/network/dependencies)
 
 <div  align="center" style=" border: 1px solid black">
 

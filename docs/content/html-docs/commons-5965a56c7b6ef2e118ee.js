@@ -5051,7 +5051,7 @@
                                         'a',
                                         {
                                             className: 'github-corner',
-                                            href: 'https://github.com/bgoonz/BGOONZ_BLOG_2.0',
+                                            href: 'https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5',
                                             'aria-label': 'View source on Github'
                                         },
                                         s.a.createElement(

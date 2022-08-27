@@ -12,121 +12,121 @@
 
 </div>
 
--   [Home](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki)
+-   [Home](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki)
 
--   [add copy to code blocks.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/add-copy-to-code-blocks.md)
+-   [add copy to code blocks.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/add-copy-to-code-blocks.md)
 
--   [Add site search w algolia.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/Add-site-search-w-algolia.md)
+-   [Add site search w algolia.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/Add-site-search-w-algolia.md)
 
--   [adding mailing list.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/adding-mailing-list.md)
+-   [adding mailing list.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/adding-mailing-list.md)
 
--   [Adding search 2 gatsby site.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/Adding-search-2-gatsby-site.md)
+-   [Adding search 2 gatsby site.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/Adding-search-2-gatsby-site.md)
 
--   [ajax starter.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/ajax-starter.md)
+-   [ajax starter.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/ajax-starter.md)
 
--   [analytics.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/analytics.md)
+-   [analytics.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/analytics.md)
 
--   [anatomy of search engine.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/anatomy-of-search-engine.md)
+-   [anatomy of search engine.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/anatomy-of-search-engine.md)
 
--   [awesome.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/awesome.md)
+-   [awesome.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/awesome.md)
 
--   [BasicWebDevelopmentEnvironmentSetup.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/BasicWebDevelopmentEnvironmentSetup.md)
+-   [BasicWebDevelopmentEnvironmentSetup.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/BasicWebDevelopmentEnvironmentSetup.md)
 
--   [broken links.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/broken-links.md)
+-   [broken links.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/broken-links.md)
 
--   [config info.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/config-info.md)
+-   [config info.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/config-info.md)
 
--   [configure custom domain.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/configure-custom-domain.md)
+-   [configure custom domain.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/configure-custom-domain.md)
 
--   [contentauthoring.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/contentauthoring.md)
+-   [contentauthoring.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/contentauthoring.md)
 
--   [custom search bar.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/custom-search-bar.md)
+-   [custom search bar.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/custom-search-bar.md)
 
--   [Data Structures.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/Data-Structures.md)
+-   [Data Structures.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/Data-Structures.md)
 
--   [dependency graph.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/dependency-graph.md)
+-   [dependency graph.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/dependency-graph.md)
 
--   [DOM standard.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/DOM-standard.md)
+-   [DOM standard.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/DOM-standard.md)
 
--   [full text search w lunar.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/full-text-search-w-lunar.md)
+-   [full text search w lunar.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/full-text-search-w-lunar.md)
 
--   [github actions full doc.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/github-actions-full-doc.md)
+-   [github actions full doc.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/github-actions-full-doc.md)
 
--   [google custom search.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/google-custom-search.md)
+-   [google custom search.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/google-custom-search.md)
 
--   [google search algo.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/google-search-algo.md)
+-   [google search algo.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/google-search-algo.md)
 
--   [google webmaster guidelines.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/google-webmaster-guidelines.md)
+-   [google webmaster guidelines.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/google-webmaster-guidelines.md)
 
--   [inject 4.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/inject-4.md)
+-   [inject 4.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/inject-4.md)
 
--   [inject3.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/inject3.md)
+-   [inject3.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/inject3.md)
 
--   [inject4.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/inject4.md)
+-   [inject4.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/inject4.md)
 
--   [injected content part2.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/injected-content-part2.md)
+-   [injected content part2.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/injected-content-part2.md)
 
--   [injected js part4.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/injected-js-part4.md)
+-   [injected js part4.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/injected-js-part4.md)
 
--   [injected part3.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/injected-part3.md)
+-   [injected part3.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/injected-part3.md)
 
--   [links 2 embed.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/links-2-embed.md)
+-   [links 2 embed.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/links-2-embed.md)
 
--   [links to remember](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/links-to-remember)
+-   [links to remember](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/links-to-remember)
 
--   [list of links.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/list-of-links.md)
+-   [list of links.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/list-of-links.md)
 
--   [Netlify Injected Content](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/Netlify-Injected-Content)
+-   [Netlify Injected Content](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/Netlify-Injected-Content)
 
--   [netlify tips.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/netlify-tips.md)
+-   [netlify tips.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/netlify-tips.md)
 
--   [old version of index.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/old-version-of-index.md)
+-   [old version of index.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/old-version-of-index.md)
 
--   [optimize vscode.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/optimize-vscode.md)
+-   [optimize vscode.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/optimize-vscode.md)
 
--   [possibly useful snippets.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/possibly-useful-snippets.md)
+-   [possibly useful snippets.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/possibly-useful-snippets.md)
 
--   [privacy policy.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/privacy-policy.md)
+-   [privacy policy.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/privacy-policy.md)
 
--   [random stuff.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/random-stuff.md)
+-   [random stuff.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/random-stuff.md)
 
--   [random.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/random.md)
+-   [random.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/random.md)
 
--   [ref type](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/ref-type)
+-   [ref type](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/ref-type)
 
--   [search engine simulation.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/search-engine-simulation.md)
+-   [search engine simulation.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/search-engine-simulation.md)
 
--   [SEO.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/SEO.md)
+-   [SEO.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/SEO.md)
 
--   [sourcecode.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/sourcecode.md)
+-   [sourcecode.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/sourcecode.md)
 
--   [STABLE_POINTS.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/STABLE_POINTS.md)
+-   [STABLE_POINTS.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/STABLE_POINTS.md)
 
--   [stack overflow site search.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/stack-overflow-site-search.md)
+-   [stack overflow site search.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/stack-overflow-site-search.md)
 
--   [tech used 2021.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/tech-used-2021.md)
+-   [tech used 2021.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/tech-used-2021.md)
 
--   [tech used.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/tech-used.md)
+-   [tech used.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/tech-used.md)
 
--   [Technologies Used.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/Technologies-Used.md)
+-   [Technologies Used.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/Technologies-Used.md)
 
--   [THINGS TO EMBED.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/THINGS-TO-EMBED.md)
+-   [THINGS TO EMBED.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/THINGS-TO-EMBED.md)
 
--   [validation report.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/validation-report.md)
+-   [validation report.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/validation-report.md)
 
--   [ways to improve site.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/ways-to-improve-site.md)
+-   [ways to improve site.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/ways-to-improve-site.md)
 
--   [web archive.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/web-archive.md)
+-   [web archive.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/web-archive.md)
 
--   [webhooks.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/webhooks.md)
+-   [webhooks.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/webhooks.md)
 
--   [wordpress vs headless cms.md](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/wordpress-vs-headless-cms.md)
+-   [wordpress vs headless cms.md](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/wordpress-vs-headless-cms.md)
 
-[](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki/_Sidebar/_edit 'Edit sidebar')
+[](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/wiki/_Sidebar/_edit 'Edit sidebar')
 
 # Sitemap:
 
-![blog](https://github.com/bgoonz/BGOONZ_BLOG_2.0/raw/master/static/images/blog-img.png)
+![blog](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/raw/master/static/images/blog-img.png)
 
 ## Docs Structure:
 
@@ -311,7 +311,7 @@ These dependencies are defined in **BGOONZ_BLOG_2.0**'s manifest files, such as 
 
 <button> <button>
 
-[Source](https://github.com/bgoonz/BGOONZ_BLOG_2.0/network/dependencies)
+[Source](https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5/network/dependencies)
 
 <div  align="center" style=" border: 1px solid black">
 

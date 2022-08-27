@@ -37,11 +37,11 @@ sections:
         actions:
           - label: View Posts
             url: >-
-              https://bgoonz-blog.netlify.app/docs/python/python-ds
+              https://blog3-backup-dd7df.netlify.app/docs/python/python-ds
             style: secondary
         image_alt: python
         title: Python Guide
-        title_url: 'https://bgoonz-blog.netlify.app/docs/python/python-ds'
+        title_url: 'https://blog3-backup-dd7df.netlify.app/docs/python/python-ds'
         image: images/smiling-maple.png
       - content: |
           <div id="search"></div> <div id="search" />
@@ -239,7 +239,7 @@ sections:
     content: |
       ![](images/static-server-5bf5ad2d.PNG)Tool Showcase
 
-      https://bgoonz-blog.netlify.app/docs/tools/
+      https://blog3-backup-dd7df.netlify.app/docs/tools/
     actions: []
     type: section_content
     title: Tools Showcase

@@ -872,10 +872,10 @@ This is hugely beneficial because it lets you determine what the messaging (and 
 
 ### Discover More:
 
-<a href="https://bgoonz-blog.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bgoonz-blog.netlify.app/"><strong>Stackbit Web-Dev-HubTheme</strong>
+<a href="https://blog3-backup-dd7df.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://blog3-backup-dd7df.netlify.app/"><strong>Stackbit Web-Dev-HubTheme</strong>
 <br/>
 
-<em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>bgoonz-blog.netlify.app</a><a href="https://bgoonz-blog.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>bgoonz-blog.netlify.app</a><a href="https://blog3-backup-dd7df.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
 
 By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner</a> on [June 24, 2021](https://medium.com/p/9a52e11c8ee1).
 

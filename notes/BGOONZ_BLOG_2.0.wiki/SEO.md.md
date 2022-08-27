@@ -747,7 +747,7 @@ Title: /\
 | <https://github.com/bgoonz>\
 Title: /\
  |
-| <https://github.com/bgoonz/BGOONZ_BLOG_2.0>\
+| <https://github.com/BGOOONZ-BLOG/bgoonz-blog2.0-v-5>\
 Title: /\
  |
 | <https://github.com/bgoonz/Learning-Assets>\

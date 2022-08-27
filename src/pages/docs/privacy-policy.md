@@ -12,11 +12,11 @@ template: docs
 
     PRIVACY NOTICE
 
-- Visit our website at <https://bgoonz-blog.netlify.app/>
+- Visit our website at <https://blog3-backup-dd7df.netlify.app/>
 
 <!---->
 
-- Use our Facebook application — <https://bgoonz-blog.netlify.app/>
+- Use our Facebook application — <https://blog3-backup-dd7df.netlify.app/>
 
 <!---->
 

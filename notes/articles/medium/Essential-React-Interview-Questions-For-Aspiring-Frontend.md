@@ -34,7 +34,7 @@ Comprehensive React Cheatsheet included at the bottom of this article!
 
 #### It's a work in progress
 
-<a href="https://bgoonz-blog.netlify.app/" class="markup--anchor markup--p-anchor">https://bgoonz-blog.netlify.app/</a>
+<a href="https://blog3-backup-dd7df.netlify.app/" class="markup--anchor markup--p-anchor">https://blog3-backup-dd7df.netlify.app/</a>
 
 <figure><img src="https://cdn-images-1.medium.com/max/1200/1*t3UQh848ndt4rgr_fDToaw.png" class="graf-image" /></figure>
 
@@ -254,10 +254,10 @@ a. Import the react-router-dom package:
 
 ### Discover More:
 
-<a href="https://bgoonz-blog.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bgoonz-blog.netlify.app/"><strong>Web-Dev-Hub</strong>
+<a href="https://blog3-backup-dd7df.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://blog3-backup-dd7df.netlify.app/"><strong>Web-Dev-Hub</strong>
 <br/>
 
-<em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>bgoonz-blog.netlify.app</a><a href="https://bgoonz-blog.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>bgoonz-blog.netlify.app</a><a href="https://blog3-backup-dd7df.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
 
 ### REACT CHEAT SHEET:
 
